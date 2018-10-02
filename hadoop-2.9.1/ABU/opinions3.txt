@@ -1,0 +1,1187 @@
+
+PREFACE 
+------- 
+
+La présente édition du traité Des Opinions des philosophes appelle, en guise de Préface, un certain nombre de remarques, et sur le fond, et sur la forme. Pourquoi se soucier, tout d'abord, de publier ce texte, puisqu'il existe des traductions complètes des OEuvres de Plutarque en langue moderne? La Loeb Classical Library, d'une part, donne une édition avec traduction anglaise des Moralia  (en 17 volumes) et des Parallel Lives (en 11 volumes); aux éditions des Belles-Lettres, dans la collection des Universités de France, d'autre part, sont publiées et traduites les Vies parallèles, et cours de publication les OEuvres morales. On peut encore ajouter qu'une traduction des Vies parallèles, celle de J. Amyot, est également publiée aux éditions Gallimard, dans la collection de la Pléiade. 
+
+On chercherait cependant en vain le titre que nous présentons dans tous ces volumes, et ceci pour la raison après tout défendable qu'il s'agit d'un écrit apocryphe. Le véritable auteur des Opinions des Philosophes n'est pas Plutarque de Chéronné - qu'il convient de bien distinguer de Plutarque d'Athènes : ce dernier fut l'un des scolarques de l'école néoplatonicienne d'Athènes, et l'un des maîtres de Proclus. Plutarque de Chéronnée est un historien et philosophe grec qui vécut à la fin du Ier siècle et au début du IInd siècle après Jésus-Christ. Et, s'il est l'auteur des Vies parallèles et des OEuvres philosophiques et morales, traduites par J. Amyot au XVIème siècle, il n'est pas l'auteur de ce recueil d'Opinions (ou placita en latin, ou stromates en grec, qui signifie bigarrure, chose composite -- nous dirions : un patch-work, ce qui rend assez bien l'impression que dégage cet écrit). Du véritable auteur, nous ne savons rien, et devons nous résigner à l'appeler le Pseudo-Plutarque (ou encore : [Plutarque], en adoptent les conventions modernes). Tout ce que nous savons, c'est que ces Stromates sont composée en suivant un modèle : celui du doxographe, ou collecteur d'opinions des philosophes anciens, Aétius. De cet auteur, à nouveau, on ne sait rien... Mais le philologue allemand Diels a démontré, dans son ouvrage Doxographi Græci, Berlin, 1879, que les Placita d'Aétius étaient la plus ancienne version de ce type de recueil, que l'on pourrait appeler d'un titre générique : Recueil d'opinions des philosophes. 
+
+Qu'on nous pardonne de nous attarder sur ces détails qu'aucuns jugerons gratuitement érudits, mais la chose est indispensable si l'on veut comprendre exactement de quoi il s'agit. Le Pseudo-Plutarque recopie Aétius, lequel recopie un Recueil dont l'archétype renvoie à la plus haute antiquité : la lecture du traité que nous republions ici donne donc accès, de façon certes indirectes, mais la seule encore possible, à certains systèmes de pensées de la plus haute Antiquité. Aristote lui-même, au premier livre de sa Métaphysique,  est l'auteur d'un semblable recueil, lorsqu'il expose les opinions ou thèses des philosophes qui l'ont précédés sur la question du nombre et de la nature des causes et principes qui président à toutes réalités. Dans une question difficile, Aristote conseille en effet de prendre soin, au préalable, d'exposer la doctrine des penseurs qui en ont déjà traité - présentation qu'il appelle dialectique -, avant que de la critiquer, de sorte à approcher plus aisément de la vérité. Dans cette perspective à la fois historique, critique et heuristique, il devient essentiel de constituer semblables recueils à celui qui nous occupe ici. Aristote fut le premier à ouvrir la voie à ce style. Même s'il arrive à Platon (par exemple dans le Sophiste) de donner un expression des philosophes qui l'on précédés, il n'est en effet pas certain qu'il soit très fidèle à leurs écrits. Lisons un peu ce qu'explique mon bon maître Jean-Paul Dumont, traducteurs des Présocratiques dans la Pléiade : 
+
+" Théophraste, le successeur immédiat d'Aristote, dont il était l'élève, à la tête du Lycée [Note 1], a mis systématiquement en pratique l'impératif dialectique lié à la pédagogie de son maître, et fait établir à cet usage des recueil ou collections d'opinions - plus tard désignés du nom latin de Placita. La première édition en fut très tôt perdue. Mais l'histoire de ses copies successives a constitué le premier travail de Hermann Diels - le ressembleur des textes présocratiques que nous lisons ici - aboutissant à son édition grecque des Doxographi græci, à Berlin, en 1879. Il y établir que le plus ancien recueil théophrastien d'opinions - les Vetusta placita - a été recopié ou réédité par un certain Aétius, savant de date inconnue et dont l'ouvrage est lui aussi perdu, mais a par chance été recopié par deux auteurs dont l'un, le pseudo-Plutarque, est inconnu, et l'autre est Jean Stobée, qui a édité le Choix de textes au Ve siècle de notre ère. Diels en offrait une édition synoptique sur deux colonnes. Ainsi est née, avec Aétius, la doxographie scolaire : elle consiste en des recueils de philosophie par les textes ou en ce que les éditeurs d'Outre-Manche appellent des Source books, destinés à alimenter la réflexion des jeunes gens étudiant la philosophie [Note 2]. " 
+
+On voit par là que le texte du Pseudo-Plutarque, tel qu'il est traduit dans la langue savoureuse du XVIe siècle par J. Amyot, présente un quadruple intérêt (en attendant une traduction précise des Doxographi græci  de Diels). Tout d'abord, parce que, de Théophraste à Aétius, et d'Aétius à Stobée et au Pseudo- Plutarque, il permet de remonter à une époque quasi-contemporaine d'Aristote. Ensuite, parce que de cette époque et de celles qui suivent, bien des ouvrages ont disparu : ainsi le Stoïcisme ancien, puisque les OEuvres de Zénon de Cittium, de Chrysippe et Cléante sont entièrement, ou peu s'en faut, perdues, la doctrine d'Epicure, dont trois lettres seulement nous ont été conservées par Diogène Laërce, ou encore des Présocratiques dans toutes leur diversité, et de bien d'autres, ne nous sont au fond accessibles que par des témoignages, au rang desquels le traité Des Opinions des philosophes  vient naturellement prendre une place privilégiée. Pourquoi en donner la version de J. Amyot ? Non pas seulement pour le plaisir de la langue de ce siècle. Mais parce qu'elle se situe à l'aurore d'une révolution qu'on a coutume de nommer la copernicienne ou la galiléenne. Sans doute faudrait-il se plonger profondément dans l'histoire de la Renaissance pour prouver les affirmations suivantes, mais la place et le temps manque malheureusement ici : les savants de la Renaissance furent très tôt à la recherche de modèles scientifiques permettant d'échapper à l'emprise de l'aristotélisme; or, de ce point de vue, l'atomisme épicurien et le matérialisme stoïcien s'offraient à eux naturellement. Et cela est une troisième raison de privilégier la traduction de J. Amyot. Pour ne prendre qu'un exemple, on parle souvent des éléments stoïciens à l'oeuvre dans les traités de Descartes (par exemple dans les Principes de la philosophie naturelle, ou dans le Traité des Passions de l'Âme), ou de l'atomisme de Gassendi : une comparaison précise des thèses exprimées par ces savants (ainsi, généralement, que par ceux des XVIè, XVIIè et XVIIè siècle) pourrait peut-être permettre de mieux mesurer leurs sources, leur degré d'originalité vis-à-vis de ces sources et, par là, la ce qui relève chez eux de l'invention conceptuelle à proprement parler. 
+
+Il reste un quatrième type de raisons à mettre en avant : et qui est celui, purement et simplement, de ne pas laisser perdre les textes, mais au contraire de les rendre accessibles directement à l'honnête homme du XXè siècle, lequel, qui plus est, aux commandes de son ordinateur, dispose désormais d'un outil d'exploitation matériellement supérieur aux instruments de papier des érudits de la Renaissance. 
+
+Le Traité des Opinions des Philosophes est composé de cinq livres. Il est visible, à la lecture des gloses que J. Amyot a cru bon d'ajouter au texte, qu'il a certainement cru y lire quelque chose qui ressemblait à une somme. Non pas seulement du modèle de celle que saint Thomas d'Aquin nous a laissé sous le titre de Somme Théologique, mais encore de celle que Descartes rêvait d'écrire, lorsqu'il parle, dans une lettre à Huygens du 29 Juillet 1641, de sa "Physique, ou plutôt le sommaire de toute la Philosophie", et qu'il prubliera sous le titre des Principes de la philosophie. Il ne faut jamais oublier, si l'on veut comprendre à quoi l'on a affaire, que c'est de la notion de somme ou de sommaire que l'arbre de toute la philosophie (cf. Lettre-Préface, AT IX-2, 26, rééd. Vrin, p. 14, li.23 & sv.), dont les racines sont la Métaphysique, le tronc la Philosophie naturelle (= la Physique) et les trois branches, respectivement, la Mécanique, la Médecine et la Morale, est une illustration de cette notion de somme, laquelle est "un corps de Philosophie tout entier" (idem, AT IX-2, 30 = Vrin 17,9), c'est-à-dire tout simplement de l'ensemble des savoirs existants. 
+
+C'est à quelque chose de comparable, ou tout au moins de semblable aux recueils de Question naturelles, de Pline, de Sénèque, ou d'autres, dans lesquels on puisait alors bien des doctrines scientifiques, que J. Amyot a certainement cru avoir affaire. 
+
+L'objet général du traité du Pseudo-Plutarque, c'est la nature, par opposition à la philosophie morale et à la philosophie verbale (I, préf.) : entendons par-là qu'il ne s'agit ni d'éthique, ni de logique, mais de la science qui chercher les principes de tout ce qui existe par nature (et non du fait de l'action, ou du raisonnement humain). C'est en ce sens que cette collection d'opinions traite d'abord des principes incorporels et éternels (I) puis des principes célestes ou supra-lunaires, c'est-à-dire corporels et éternels (II) avant de passer aux réalités sublunaires (III à IV), elles-mêmes soigneusment classées : celles qui sont au- dessus de la terre et au-dessous du ciel et de la Lune, les Météores (III); celles qui sont terrestres et touchent à l'âme (IV); et, enfin, celles qui sont terrestres et corporelles, tuchant à la vie (V). 
+
+Le Premier Livre, en effet, pour objet les principes et les réalités métaphysiques - ou plus exactement tout ce qui se range des principes, éléments et causes (I, chap.II, jusqu'à la nécessité, la destinée et la fortune (I, chap.XXIX). On passe alors, avec le deuxième livre à l'examen des réalités corporelles : du monde (II, chap.I) à la Lune et au calendrier (II, chap.XXXI & XXXII). Sous la Lune, il faut alors ranger les réalités sublunaires, qui sont corporelles (comme l'étaient les réalités supralunaires : planètes, étoiles, etc.), mais aussi temporelles et non éternelles : le Livre III du traité des Opinions des Philosophes  ressemble ainsi à un un traité des Météores. Avec le Livre IV, on passe à l'examen des réalités terrestres, en commençant par les réalités psychiques, de l'Âme en général (IV, chap. II) aux facultés de l'âme (jusqu'au chap. XXI), en passant par les différentes formes d'âme, son immortalité, etc. Vers la fin du quatrième Livre (chap. XXII & XIII), on trouve des considérations sur les liens de l'âme et du corps; au début du livre V, sur les images des la divination et des songes (Chap. I & II). Le Livre V a pour objet les réalités terrestres inférieures à l'âme : de la semence générative (V, chap. III), qui en est issue, à la santé du corps (V, chap.XXX) en passant, par la description des processus de génération, de développement de l'embryon. Ce qui peut sembler à un lecteur non averti des XVIè et XVIIè siècle un cours complet de philosophie naturelle, est en réalité un catalogue d'opinions des auteurs anciens, portant sur tous les sujets auxquels les philosophes de toutes les écoles avaient coutume de s'intéresser. 
+
+Le présent travail de copie obéit aux principes suivants : 
+
+1° Le texte Des Opinions des Philosophes, du Pseudo-Plutarque a été copié dans l'édition des OEuvres Mêles  de Plutarque, traduites par Jacques Amyot à la Renaissance. Cf. Copie de la page de garde du tome second en incipit. 
+
+2° J'ai renoncé à suivre systématiquement l'orthographe et la graphie de l'époque, que j'ai donc modernisée, partout où j'ai estimé qu'elle faisait entrave à la lecture. 
+
+3° La pagination originale a été systématiquement conservée entre crochets []. 
+
+4° Les anotations et divisions ajoutées en marges par J. Amyot sont également conservées. Les intertitres numérotés en chiffres romains ajoutés en marge ont ainsi été replacés en tête des paragraphes concernés (dans un caractère plus petit). Il convient de leur porter attention, au moins en ce sens : si, dans leur teneur générale, ces gloses ne sont que des extraits du texte du Pseudo- Plutarque, elles comportent parfois des remarques critiques ou réfutatives - en particulier pour ce qui regarde la dimension de la religion et de la théologie - qui témoignage de l'état d'esprit dans lequel on lisait pareil texte à cette époque. 
+
+5° La ponctuation a été conservée telle quelle. 
+
+6° Les mots d'ancien français dont l'usage s'est perdu depuis l'époque de J. Amyot sont traduit en notes (ce sont les définitions du Dictionnaire de l'Académie Française,  dans l'édition de 1740, du Dictionnaire d'Ancien Français de Gransaignes d'Hauterive, ou du Dictionnaire de l'Ancien Français jusqu'au milieu du XIVè siècle de Greimas qui sont fournies). 
+
+7° Mes notes sont regroupées à la fin du fichier. Elles sont indiquées par [Note XX]. 
+
+Eric DUBREUCQ 
+
+
+DES OPINIONS DES PHILOSOPHES 
+============================ 
+
+
+LES OEUVRES 
+MESLEES 
+DE PLUTARQUE, 
+TRANSLATEES DE GREC 
+EN FRANCOIS, 
+REVUES ET CORRIGEES 
+en plusieurs passages par le Translateur, 
+AVEC PREFACE GENERALE, 
+Sommaires au commencement de chacun livre, 
+annotations en marge, de nouveau 
+reveües & augmentées 
+de moitié. 
+ENSEMBLE UN INDICE DES CHOSES 
+memorables mentionnées esdites OEuvres. 
+TOME SECOND. 
+A LYON, 
+Pour PAUL FRELLON. 
+MDCVII. 
+
+
+DES OPINIONS DES PHILOSOPHES 
+
+
+[255] 
+
+ 
+
+LIVRE PREMIER 
+----------------------------------------- 
+Division & distribution de la Philosophie. 
+La Naturelle, la Morale. La Verbale. 
+Autre division, en Philosophie active & contemplative. 
+
+ 
+
+Ayant proposé d'écrire la Philosophie naturelle, il me semble nécessaire en premier lieu, & devant toute autre chose, mettre la division & distribution de Philosophie, afin que nous sachions ce que c'est que la Naturelle, & quelle part & portion elle est de toute la Philosophie. Or donc les Philosophes Stoïques disent, que sapience est la science de toutes choses tant divines qu'humaines, & que Philosophie est profession & exercice de l'art à ce convenable, qui est une seule suprême & souveraine vertu, laquelle se divise en trois générales, la Naturelle, la Morale, & la Verbale : à raison de quoi la Philosophie vient à être aussi divisée en trois parties, l'une Naturelle, l'autre Morale, & la tierce Verbale. La Naturelle est, quand nous enquérons & disputons du monde, & des choses contenues en icelui, la Morale, celle qui occupée à traiter de la bonté ou mauvaistié de la vie humaine : la Verbale, celle qui traite de ce qui appartient à discourir par raison, laquelle se nomme autrement Dialectique, comme qui dirait disputatrice. Mais Aristote & Théophraste, & presque tous les Péripatétiques entièrement, partissent la Philosophie en cette sorte. Est nécessaire que l'homme pour être parfait soit & contemplateur de ce qui est, & facteur de ce qu'il doit, ce qu'on pourra plus clairement entendre sur ces exemples : On demande, Si le Soleil est un animal, c'est-à-dire créature animée ou non, ainsi qu'on le voit. Celui qui va recherchant la vérité de cette proposition & question est contemplatif : car il ne requiert & cherche que ce qui est. Semblablement Si le monde est infini, & s'il y a aucune chose hors le contenu de ce monde : toutes telles questions sont contemplatives. Mais d'un autre côté on peut demander, Comment il faut vivre, & gouverner ses enfants, comment il faut exercer un Magistrat, comment il faut établir des lois : car toutes ces questions-là demande à l'intention de faire, & telle vie se demande active & pratiquer. 
+
+[256] CHAPITRE I. Qu'est-ce que Nature. 
+
+Nature est le principe de mouvement & de repos, de ce en quoi elle est premièrement & non par accident 
+
+Puis donc que nous avons proposé d'écrire & de traiter de la Philosophie Naturelle, je pense qu'il soit nécessaire de déclare premièrement ce que c'est que Nature : car il n'y aurait point de propos de vouloir entrer en discours de choses naturelles, & d'ignorer d'entrée ce que signifie nature. C'est donc selon l'avis & l'opinion d'Aristote, le principe de mouvement & de repos, de ce en quoi elle est premièrement & non par accident : car toutes les choses qu'on voit qui ne se font ni par fortune, ni par nécessité, & ne sont point divines, ni n'ont aucune de ces causes efficientes, s'appellent naturelles, & ont une nature propre & péculière, comme la terre, le feu, l'eau, l'air, les plantes, les animaux. Et davantage, ces autres choses que nous voyons s'engendrer ordinairement, comme pluie, grêle, foudre, vents & autres semblables, ont quelque principe & commencement : car elles n'ont pas leur être de toute éternité, ains ont quelque commencement : & semblablement les animaux & les plantes ont aussi principe de leur mouvement & ce principe premier là, c'est la Nature, & non seulement principe de mouvement, mais aussi de repos : car tout ce qui a eu principe de mouvement, aussi peut-il avoir fin, & pour cette raison Nature est le principe de repos & de mouvement. 
+
+CHAPITRE II. Quelle différence il y a entre Principe & Eléments. 
+
+Les principes sont simples & les Eléments composés. 
+
+Aristote donc & Platon estiment qu'il y ait différence entre Principe et Elément, mais Thalès Milésien pense que ce sont une même chose Principe & Eléments, toutefois il y a bien une grande différence, pour ce que les Eléments sont composés, mais que les Principes ne sont point composés, ni aucune substance complette : comme nous appelons Eléments, la terre, l'eau, l'air & le feu : mais les Principes nous les appelons ainsi, pour autant qu'ils n'ont rien précédant, dont ils soient engendrés : car autrement s'ils n'étaient les premiers, ils ne seraient pas principes, ains ce dont ils sont engendrés. Or il y a quelque chose précédantes, dont sont composées la terre & l'eau, c'est à savoir, la matière première sans forme quelconque ni espèce, & la forme que nous appelons autrement Entéléchie, & puis privation, Thalès donc [257] a failli en disant, que l'Eau était l'Elément & le Principe de l'univers. 
+
+CHAPITRE III. Des Principes; Que c'est. 
+
+I. Thalès a estimé que l'eau fût le principe de toutes choses. Ses raisons. 
+
+Thalès le Milésien a affirmé que l'eau était Principe de l'univers, il a ce semble été le premier auteur de la Philosophie, & de lui a été nommée la secte ionique des Philosophes : car il y a eu plusieurs familles & successions de Philosophes, & ayant étudié en Egypte, il s'en retourna tout vieil en la ville de Milet où il maintint que toutes choses étaient composées d'eau & qu'elles se résolvaient aussi toutes en eau. Ce qu'il conjecturait par une telle raison, c'est que premièrement la semence est le principe de tous animaux, laquelle semence est humide, ainsi il est vraisemblable que toutes autres choses aussi ont leur principe d'humidité. Secondement que toutes sortes de plantes sont nourries d'humeur, & fructifient par humeur, & quand elles en ont faute elles se dessèchent. Tiercement que le feu du Soleil même & des astres se nourrit & entretient des vapeurs procédantes des eaux, & par conséquent aussi pour tout le monde. C'est pourquoi Homère, supposant que toutes choses sont engendrées d'eau dit 
+
+L'Océan est père de toutes choses [Iliad. li.14]. 
+
+II. Anaximandre a attribué ce principe à l'infini. Réfuté 
+
+Mais Anaximandre Milésien aussi tient, que l'infini est le principe de toutes choses, pour ce que toutes choses sont procédées de lui & toutes se résolvent en lui, & pourtant qu'il s'engendre infinis mondes, lesquels puis après s'évanouissent en ce dont ils sont engendrés : Pourquoi donc, dit-il, y a-t-il l'infini? afin que la génération ne défaille jamais. Mais il faut aussi ne déclarant pas ce que c'est que l'infini, si c'est air, ou eau, ou terre ou quelque autre corps, & faut en ce, qu'il met bien un sujet & une matière, mais il ne met pas une cause efficiente : car cet infini n'est autre chose que la matière, mais la matière ne peut venir en parfait être, s'il n'y a une cause mouvante & efficiente. 
+
+III. Anaximène estime que ce soit l'air. Est réfuté. 
+
+ANAXIMENE Milésien aussi maintient, que l'air était le Principe de l'univers pour ce que toutes choses étaient engendrées de lui, & derechef se résolvaient en lui : comme notre âme dit-il qui est air, nous tient en vie, aussi l'esprit & l'air contient en être tout ce monde : car esprit & air sont deux noms qui signifient une même chose, mais celui-ci faut [258] aussi, pensant que les animaux soient composés d'un simple & uniforme esprit & air : car il est impossible qu'il n'y ait que un seul Principe de toutes choses, qui est la matière, ains faut & quand supposer la cause efficiente : ni plus ni moins que ce n'est pas assez d'avoir l'argent pour faire un vase, s'il n'y a ensemble la cause efficiente qui est l'orfèvre : autant en faut-il dire du cuivre, du bois, & de toute autre matière. 
+
+IV. Anaxagore tient que ce sont parcelles semblables qu'il appelait Homoeoméries. Ses raisons. 
+
+Anaxagore le Clazoménien assura, que les Principes de toutes choses étaient les menues parcelles semblables, qu'il appelait Homoeoméries : car il lui semblait totalement impossible que quelque chose se pût résoudre en ce qui n'est pas. Or est-il que nous prenons nourriture simple & uniforme, comme nous mangeons du pain et du froment, & buvons de l'eau & néanmoins de cette nourriture se nourrissent les cheveux, les veines, les artères, les nerfs & les os, & les autres parties du corps. Puis qu'il est donc ainsi, il faut aussi confesser qu'en cette nourriture que nous prenons, sont toutes ces choses qui ont être, & que toutes choses s'augmentent de ce qui a être, & en cette nourriture sont des parties qui engendrent du sang, des nerfs des os, & des autres parties de notre corps, qui se peuvent comprendre par le discours de la raison, parce qu'il ne faut tout réduire aux sentiments de la nature, pour montrer que le pain & l'eau fassent cela, ains suffit qu'il y a des parties lesquelles se peuvent connaître par la raison. Pour autant donc qu'en la nourriture y a des parties semblables à ce qu'elles engendrent, à cette cause les appelait-il Homoeoméries, comme qui dirait parcelles semblables, & affirma que c'étaient les Principes de toutes choses ainsi voulait-il que ces parcelles semblables fussent la matière des choses, & que l'entendement fût la cause efficiente qui a ordonné tout : si commence son propos en cette sorte : Toutes choses étaient ensemble pêle-mêle, mais l'entendement les sépara & mit par ordre. Pour le moins en cela fait-il à louer, qu'à la matière il a adjoint l'ouvrier. 
+
+V. Opinion d'Archelaüs touchant le principe de toutes choses. 
+
+ARCHELAÜS, fils d'Apollodorus Athénien dit, que le Principe de l'univers c'était l'air infini, & la raréfaction & condensation d'icelui, dont l'un est le feu, & l'autre l'eau. Ceux-ci donc étant par succession continuelle depuis Thalès venus les uns après les autres, ont fait la secte qui s'appelle Ionique. 
+
+VI. Pythagore & ses disciples tiennent que les nombres sont les Principes de toutes choses. Quel était le plus grand serment des Pythagoriques & pourquoi. Que représente le deux. Que représente le trois. 
+
+D'AUTRE part Pythagore, fils de Mnésarchus natif de l'île de Samos, le premier qui a donné le nom à la Philosophie, a tenu que les principes des choses étaient les nombres, & les symmétries, c'est-à-dire, convenances & propor [259] tions qu'ils ont entr'eux, lesquelles il appelle autrement Harmonies : & puis les composés de ces deux Eléments qu'on dit Géométriques. Derechef il met encore entre les Principes, l'Un & le Deux indéfini, & tend l'un de ces principes à la cause efficiente & spécifique, qui est l'entendement, c'est à savoir Dieu : l'autre à la cause passive & matérielle, qui est ce monde visible. Davantage il estimait que Dix était toute la nature du nombre, pour ce que les Grecs et les Barbares tous comptent jusqu'à dix, puis quand ils y sont arrivés jusqu'à la dizaine, il retournent derechef à l'unité. Et outre disait encore que toute la puissance de dix consiste en quatre, c'est-à-dire au nombre quaternaire : & la cause pourquoi, c'est que si on recommence à l'un, & que selon l'ordre des nombres on les ajoute jusqu'au quatre, on fera le nombre de dix, & si on surpasse le quaternaire, aussi surpassera-t-on la dizaine : comme si on met un & deux ensemble, ce sont trois, & trois avec sont six, & quatre après ce sont dix, de sorte que tout le nombre, à le prendre d'un à un, git en dix, & la force & puissance en quatre. Et pourtant les Pythagoriques soulaient [Note 3] jurer, comme par le plus grand serment qu'ils eussent su faire, par le quaternaire, 
+
+Par le Saint Quatre, éternelle nature 
+
+Donnant à l'âme humaine, je te jure; 
+
+& notre âme, dit-il est composée de nombre quaternaire : car il y a l'entendement, science, opinion & sentiment, dont procède toute science & tout art, & dont nous-mêmes sommes appelés raisonnables. Car l'entendement est l'unité, pour ce qu'il ne connait & n'entend que par un, comme y ayant plusieurs hommes, les particuliers un à un sont incompréhensibles par sentiment, attendus qu'ils sont infinis, mais nous comprenons en pensée, cela seul Homme, & en entendons un seulement, auquel nul n'est semblable : car les particuliers qui les considèreraient à part sont infinis, ainsi toutes espèces & tous genres sont en unité & pourtant quand on demande de chaque particulier que c'est, nous en rendons une telle définition générale, c'est un animal raisonnable, apte à discourir par raison : ou bien animal apte à hennir. Voilà pourquoi l'entendement est unité, par laquelle nous entendons cela. Mais le deux & nombre binaire, indéfini, est à bon droit science : car toute démonstration et toute probation est une sorte de science : & davantage toute manière de syllogisme & ratiocination, collige & infère une conclusion qui était douteuse, de quelques propositions confessées, par où elle démontre facilement une autre chose, dont [260] la compréhension est science : par ainsi apert-il que science vraisemblablement est nombre binaire. Mais opinion bonne raison peut se dire le nombre ternaire de la compréhension, pour ce que l'opinion est de plusieurs. Or la ternaire est nombre de multitude, comme quand le Poëte dit, Ô Grecs heureux trois fois. C'est pourquoi Pythagore ne faisait point estime du trois, la secte duquel a été appelée Italique, pour autant que Pythagore, ne pouvant supporter la tyrannique domination de Polycratès, se partit de Samos, qui était son pays, & s'en alla tenir son école en Italie. 
+
+VII. Héraclite & Hippasus ont tenu que le feu était le principe de toutes choses. 
+
+HERACLITE & Hippasus de la ville de Meraponte ont tenu, que le feu était le principe de toutes choses, pour ce que toutes choses se font de feu, & se terminent par feu, & quand il s'éteind, tout l'univers monde en est engendré : car la plus grosse partie d'icelui se serrant & épaississant en soi-même se fait terre, laquelle venant à être lâchée par le feu, se convertit en eau, & elle s'évaporant se tourne en air : & derechef le monde, & tous les corps qui sont compris en icelui, seront un jour tous consumés par le feu par quoi il concluait que le feu était le principe de toutes choses, comme celui dont tout est : & la fin aussi, pour ce que toutes choses se doivent résoudre en lui. 
+
+VIII. Epicure dit que ce sont les Atomes ou corps indivisibles, & éternels & infinis, ayant pris cette opinion de Démocrite. 
+
+Epicure, fils de Noclés Athénien, suivant l'opinion de Démocrite dit, que les Principes de toutes choses sont les Atomes, c'est-à-dire, corps indivisibles, perceptibles par la raison seulement, solides sans rien de vide, non engendrés, immortels, éternels, incorruptibles, qu'on ne saurait rompre ni leur donner autre forme, ni autrement les altérer, & qu'ils ne sont perceptibles ni compréhensibles que par la raison, mais qu'ils se meuvent en un infini & par un infini qui est le vide, & que ces corps sont en nombre infini, & ont ces trois qualités, figure, grandeur & poids. Démocrite en mettait deux grandeurs & figure : mais Epicure y ajoute pour le troisième le poids. Car il est, disait-il, force que ces corps-là se meuvent par la percussion du poids, car autrement ne se mouvraient-ils pas : & que les figures de tels corps étaient compréhensibles, & non pas infinis, pour ce qu'ils ne sont ni forme de hameçon, ni de fourche, ni de annelet, d'autant que telles figures sont forts fragiles : & que les Atomes sont tels qu'ils ne peuvent être rompus ni altérés, & ont certaines figures qui sont perceptibles non autrement que par la raison, & s'appellent Atomes, c'est-à-dire indivisibles, non pour ce qu'ils soient les plus petits, mais pour ce qu'on ne les peut mespartir, d'autant qu'ils sont impassibles, [261] & qu'ils n'ont rien qui soit de vide, tellement que qui dit Atome, il dit infragible, impassible, n'ayant rien de vide. Et qu'il y ait des Atomes, il est tout apparent, parce qu'il y a des Elements éternels des corps vides, & l'unité. 
+
+IX. Empédocle dit que l'accord, & le discord sont les Principes de toutes choses. 
+
+EMPEDOCLE, fils de Meton, natif d'Agrigente, dit, qu'il y a quatre Eléments, le feu, l'air, l'eau & la terre & deux Principes ou facultés & puissances principales, accord & discord, dont l'un a force & puissance d'assembler & unir, & l'autre de désassembler & désunir : & dit ainsi : 
+
+Premièrement oy les quatre racines 
+
+Dont ce qui est prend tous ses origines : 
+
+Jupin ardent, & Junon soupirant, 
+
+Pluton le riche, & Nestis qui pleurant 
+
+Avec ses pleurs humecte la fontaine, 
+
+Dont sourd coulant toute semence humaine. 
+
+Jupiter est le feu, Junon l'air, Pluton la terre & Nestis l'eau. 
+
+X. Socrate & Platon en posent trois, à savoir Dieu, la Matière, & l'Idée. 
+
+Socrate, fils de Sophronisque Athénien, & Platon, fils d'Ariston Athénien aussi (car les opinions de l'un & de l'autre, de quelque chose que ce soit, sont toutes unes) mettent trois principes, Dieu, la Matière & l'Idée. Dieu est l'entendement universel : la Matière, le premier sujet supposé la génération & corruption : l'Idée une substance incorporelle, étant en la pensée & entendement de Dieu : & Dieu, l'entendement du monde. 
+
+X. Aristote met la forme, la matière & la privation. 
+
+Aristote, fils de Nicomaque, natif de Stagire, met pour Principes, la forme la matière, & la privation : pour Eléments, quatre, & pour le cinquième, le corps céleste étant immuable. 
+
+XI. Zénon met Dieu & la matière. 
+
+Zénon, fils de Mnéséas, natif de Citie, pour Principes met Dieu & la matière, dont l'un est cause active, & l'autre passive, & quatre Eléments. 
+
+CHAPITRE IV. Comment a été composé le Monde. 
+
+Le monde composé de figure ronde, & ses principales parties engendrées par rencontres des Atomes, opinion tirée de la philosophie d'Epicure. 
+
+Le monde donc est venu a être composé & formé de figure ronde en cette manière : les Atomes indivisibles ayant un mouvement fortuit & non consulté ni proposé, & se mouvant très légèrement, & continuellement, plusieurs corps sont venus à se rencontrer ensemble, différents pour cette cause & de figure & de grandeur, & s'assemblant en un : ceux qui étaient les plus gros & plus pesants dévalaient en bas, & ceux qui étaient petits, ronds, polis & labiles, [262] ceux-là à la rencontre des corps furent en pressant repoussés & retirés contre mont; mais quand la force poussant vint à défaillir, & que l'effort du poussement cessa de les envoyer contre mont, ne pouvant retomber contre-bas, pour ce qu'ils en étaient empêchés, par nécessité ils étaient contraints de se retirer aux lieux qui les pouvaient recevoir, c'est à savoir ceux qui étaient à l'entour, auxquels grande multitude de corps étaient rebatus à l'environ, & venant en cette répercussions à s'entrelacer les uns dedans les autres ils engendrèrent le ciel, & puis d'autres encore de même nature de diverses formes, comme dit est, étant aussi poussés contre-mont, parfirent la nature des astres : & la multitude des corps rendant exhalaison & vapeur fit l'air, & l'espreignit [Note 4], lequel par le mouvement étant converti en vent, comprenant avec soi les étoiles, les trouva contre & lui, & a contregardé jusques aujourd'hui la révolution en rond, qu'ils ont encore au haut du monde. Ainsi des corps qui dévalèrent au fond, s'engendra la terre, & de ceux qui montèrent contre-mont, le ciel, le feu, & l'air, mais à l'entour de la terre, y ayant encore beaucoup de matière comprise & épaissie par les battements des vents & les haleines des astres, tout ce qui y était de plus délié & menue figure fut espreint5, & engendra l'élément de l'eau, laquelle étant de nature fluide; s'encoula aval vers les lieux creux & bas qui la pouvaient comprendre & contenir : ou bien l'eau d'elle-même s'arrêtant creusa & cava les endroits qui étaient dessous elle. Voilà comment les principales parties du monde ont été engendrées. 
+
+CHAPITRE V. Si tout est un. 
+
+I. Opinion des Stoïques. 
+
+Les Philosophes Stoïques ont tenu qu'il n'y avait qu'un monde, lequel ils appelaient Tout, & la substance corporelle. 
+
+II. Empédocle. 
+
+Empédocle disait bien qu'il n'y avait qu'un monde, mais ce n'était pas même chose que le monde & tout, & que le monde n'était qu'une petite partie du tout, & que le reste était une matière oiseuse [Note 6]. 
+
+III. De Platon. 
+
+Platon prouve la conjecture de son opinion, qu'il n'y ait qu'un monde, & que tout soit un, par trois arguments vraisemblables. Premièrement, parce qu'autrement le monde ne serait pas parfait, s'il ne comprenait tout en soi. Secondement, qu'il ne serait pas semblable à son patron, s'il n'était unique. Tiercement, qu'il ne serait pas incorruptible, s'il y avait quelque chose hors de lui. 
+
+V. De Plutarque, lequel combat l'opinion de Platon. 
+
+MAIS il faut dire à l'encontre de Platon, que le monde est parfait, & si ne comprend pas toutes [263] choses : car l'homme est bien parfait, & si ne comprend pas toutes choses. Et puis qu'il y a plusieurs exemplaires tirés d'un patron, comme és statues & maisons & és peintures. Et comme il est parfait, si hors de lui quelque chose peut tourner? Incorruptible n'est-il pas ni ne peut être, attendu qu'il a été né. 
+
+VI. De Métrodore qui tient qu'il y a une infinité de mondes. 
+
+METRODORE dit, que ce serait chose bien hors de propos que de dire, qu'en un grand champ il ne crût qu'un épis de blé, & qu'autant étrange serait-il qu'en l'infini il n'y eût qu'un monde. Or qu'il y en ait eu multitude infinis, il apert de ce qu'il y a des causes infinies : car si le monde est infini, & que les causes dont il est composé soient infinies, il est force qu'ils soient aussi infinis : car là où sont toutes les causes, là est-il force que soient aussi les effets. Or sont les causes du monde les Atomes, ou bien les Eléments. 
+
+CHAPITRE VI. D'où & comment est-ce que les hommes ont eu imagination de Dieu. 
+
+I. Opinion des Stoïques touchant l'essence de Dieu. 
+
+Les Philosophes Stoïques définissent ainsi l'essence de Dieu, que c'est un Esprit plein d'intelligence, de nature de feu, qui n'a forme aucune de soi, mais se transforme en tout ce qu'il veut, & se fait semblable à tout. 
+
+II. Qui a donné aux homme occasion de penser qu'il y eût un Dieu. De la beauté & de la perfection du ciel. De la beauté & de la perfection du ciel. Beau témoignage d'Euripide à ce propos. 
+
+Si en ont les hommes eu appréhension & apercevance; premièrement, la prenant de la beauté des choses qui apparaissent à nos yeux : car il n'y a rien de beau qui ait été fait à l'aventure ni fortuitement, ains faut qu'il ait été composé par quelque ingénieuse artificielle nature. Or est le ciel beau, comme il apparait à sa forme, à sa couleur & à sa grandeur & à la variété des astres & étoiles qui se sont disposées en icelui. Et puis il est rond comme une boule, qui est la première & plus parfaite de toutes les figures : car elle est seule de toutes qui ressemblent à ses propres parties, & étant rond il a les parties rondes aussi. Voilà pourquoi Platon dit que l'entendement, & la raison, qui est la plus divine partie de l'homme a été logée dedans la tête qui approche la forme ronde : la couleur aussi en est belle, car elle est teinte en bleu, lequel est plus obscur que n'est pas la couleur de pourpre, mais il a une qualité brillante & resplendissante telle, que par la véhémence de sa lueur, il fend un si grand intervalle de l'air, & se fait voir d'une si éloignée distance. Aussi est-il beau pour sa grandeur : car de toutes choses qui sont d'un même genre, le dehors qui environne & contient le [264] demeurant est toujours le plus beau, comme en l'homme & en l'arbre. Et puis ce qui consomme la beauté du monde sont les images célestes des signes & des étoiles qui nous apparaissent : car le cercle oblique du Zodiaque est embelli de diverses figures; 
+
+Le Cancre y est, & le Lion après, 
+
+La vierge suit, & les Forces de près, 
+
+Le Scorpion & l'Archer fuyant viennent, 
+
+Le Capricorne & le Verseau se tiennent, 
+
+Les deux Poissons, le Mouton, le Taureau, 
+
+Les deux Jumeaux font le bout du cerveau. 
+
+& autres innumérables configurations d'étoiles que Dieu a faites en semblables voutes & rotondités du monde : voilà pourquoi Euripide l'appelle 
+
+Splendeur du ciel estellé qui tout couvre. 
+
+Du sage ouvrier admirable chef-d'oeuvre. 
+
+Nous avons donc pris de là imagination de Dieu, que le Soleil, la Lune, & les autres astres, après avoir fait le cours de leurs révolutions sous la terre, viennent à renaître tous semblables en couleur, égaux en grandeur, & en mêmes lieux & en mêmes temps. 
+
+III. Trois diverses manières de servir & adorer les dieux, enseignées entre les Païens, lesquelles sont puis après divisées en sept espèces. D'où est dérivé le mot de Dieu. Toutes ces subdivisions montrent l'aveuglement des pauvres Païens touchant la vraie connaissance du vrai Dieu. 
+
+Et pourtant ceux qui nous ont baillé la manière de servir & adorer les dieux, nous l'ont exposée par trois diverses voies, l'une naturelle, la seconde fabuleuse, & la troisième civile, c'est-à-dire témoignée par les statuts & ordonnances ce chaque cité : & est enseignée la naturelle par les Philosophes, la fabuleuse par les Poêtes, la civile & légitime par les us & coutumes de chaque cité. Mais toute cette doctrine & manière d'enseigner est divisée en sept espèces; la première est par les apparences de corps célestes que nous apercevons au ciel : car les hommes ont eu appréhension de Dieu par les astres qui nous apparaissent, voyant comme ils sont cause d'un grand accord & grande convenance, & qu'il y a toujours un certain ordre & constance du jour & de la nuit, de l'hiver & de l'été, du lever & du coucher du Soleil, & puis entre les animaux & les fruits que la terre produit : pourtant ont-ils estimé que le ciel en était le père, & la terre la mère, d'autant que le ciel verse les ravages des eaux qui tiennent lieu de semences, & la terre les reçoit & enfante : & considérant que ces astres faisaient toujours leurs cours, & mêmement qu'ils étaient cause de ce que nous voyons, pour cela ils ont appelé le Soleil & la Lune Theous, c'est-à- dire, dieux, de ce mot Thein, qui signifie courir ou de Theorin, qui signifie contempler. Ils ont puis après divisé les dieux en un second & un tiers degré, c'est à [265] savoir en ceux qui profitent & en ceux qui nuisent, appelant ceux qui profitent Jupiter, Junon, Mercure, Cérès; & ceux qui nuisent, les malins Esprits, les Furies, Mars, lesquels ils abominent & détestent, comme mauvais & violent. En outre, ils ajoutent le quatrième & cinquième lieu & degré aux affaires; & aux passions & affections, comme Amour, Venus, Désir; & des affaires, comme Espérance, Justice, bonne Police. Au sixième lieu sont ceux que les Poêtes ont faits, comme Hésiode, voulant donner père aux dieux engendrés, a de lui-même inventé & introduit de tels progéniteurs, Ceus, Creus, Hyperion, Japetus, & pourtant ce genre-là est appelé fabuleux. Le septième lieu est de ceux qui ont été honorés d'honneurs divins, pour les grands biens par eux faits, à la commune vie, encore qu'ils aient été engendrés & nés humainement, comme Hercule, Castor & Polux, Bacchus. Et on dit que ces dieux avaient forme d'hommes, d'autant que la plus noble & plus excellente nature de toutes est celle des dieux, & entre les animaux le plus beau est l'homme, orné de diverses vertus, & le meilleur quant à la constitution & composition de l'entendement. Voilà pourquoi on a estimé qu'il était raisonnable que ce qui était le plus noble ressemblât à ce qui était le plus beau & meilleur. 
+
+CHAPITRE VII. Qu'est-ce que Dieu. 
+
+I. Diagoras & autres tiennent qu'il n'était point de dieux. 
+
+Aucun des Philosophes, comme Diogoras Mélien, & Théodore Cyrénien, & Evemerus natif de Tégée, ont tenu résolument qu'il n'était point de dieux. Et quant à Evemerus Cyrénien, Callimacus le donne couvertement à entendre en ses carmes Iambiques, là où il dit, 
+
+Allez vous en tous en troupe à l'Eglise, 
+
+Qui hors les murs de la ville est assise, 
+
+Où le vieillard glorieux longtemps a 
+
+Le Jupiter de bronze composa : 
+
+C'est où le traître écrit ses méchants livres. 
+
+ces méchants livres-là étaient ceux où il discourait qu'il n'y avait point de dieux. 
+
+II. Euripide tient que pour contenir les hommes sous l'obéissance des lois, on a mis en avant qu'il y avait un Dieu voyant toutes choses. Blasphèmes contre la toute-puissance du vrai Dieu. 
+
+Et Euripide ne s'osa pas découvrir, d'autant qu'il redoutait le Sénat de l'Aréopagite; mais néanmoins il montra quelle était son opinion, par telle manière, il introduisit Sisyphus, auteur de cette opinion, & puis il favorise lui- même à sa sentence. 
+
+Il fut un temps que la vie de l'homme 
+
+Désordonnée en ses faits ainsi comme 
+
+Des animaux plus farouches était, [266] 
+
+Et qu'en tout lieu le plus fort l'emportait. 
+
+Puis il dit que cette dissolution fut ôtée par l'introduction des lois, mais pour ce que la loi pouvait bien réprimer les maléfices qui se commettent évidemment, & qu'il y en avait plusieurs qui péchaient néanmoins encore secrètement, alors il y eu quelque sage homme, qui pensa en lui-même qu'il fallait toujours voiler la vérité de quelque mensonge, & persuader aux hommes 
+
+Qu'il est un Dieu vivant vie immortelle, 
+
+Qui voit & oit, & ressent chose telle. 
+
+Mais ôtant, dit-il, toute fiction & toute rêverie poêtique, avec la raison de Callimaque qui dit, 
+
+S'il est un vrai Dieu, il est donc impossible, 
+
+Qu'il ne lui soit de tout faire possible. 
+
+Or est-il que Dieu ne peut pas tout faire : car s'il est Dieu qu'il fasse que la neige soit noire, & le feu froid, & que ce qui est couché soit debout, & au contraire. Car Platon même le magnifique parleur, quand il dit que Dieu créa le monde à son moule & patron, sent fort sa rance & moisie simplesse d'antiquité, comme disent les Poêtes de l'ancienne comédie : car comment se regardait-il soi-même pour former ce monde à sa figure? & comment a-t-il fait Dieu rond comme une boule, & plus bas que l'homme? 
+
+III. Opinion contraire d'Anaxagore & de Platon, touchant la création & disposition des choses, & par qui elles ont été faites & rangées. Plutarque dispute au contraire, & veut (sans raison toutefois) renverser la providence divine, mêlant les disputes, grief montrant l'aveuglement de la sagesse humaine destituée de la parole de Dieu. Subtilités ridicules de l'homme ignorant & vain qui veut disputer de la science & vérité, laquelle surmonte son entendement. 
+
+ANAXAGORE dit que les premiers corps du commencement étaient en repos & ne bougeaient, mais que l'entendement de Dieu les ordonna & arrangea, & fit les générations de toutes choses. Platon au contraire dit, que ces premiers corps là n'étaient point en repos, & qu'ils se mouvaient confusément & sans ordre, mais que Dieu entendant bien que l'ordre vaut beaucoup mieux que la confusion, mit toutes choses par ordre. L'un & l'autre donc en cela ont fait une même faute commune, qu'ils ont estimé, que Dieu eût soin des choses humaines, & qu'il eût fabriqué ce monde expressément pour en avoir le soin. Car un animal bienheureux & immortel, accomplis de toutes sortes de biens, sans aucune participation de mal, totalement dédié à retenir & conserver sa béatitude & son immortalité, ne peut avoir soin des affaires des hommes, autrement il serait aussi malheureux comme un manoeuvre, ou comme un maçon travaillant à porter de gros fardeaux, & ressuant à la fabrique & gouvernement de ce monde. Davantage, ce Dieu dont ils parlent, il est force ou qu'il ne fût point avant la création du monde lors que les premiers corps étaient immobiles, ou que ils se mouvaient confusément; ou bien s'il était, ou il dor [267] mait, ou il ne faisait ni l'une ni l'autre. Or est-il, que ni l'un ni l'autre n'est à confesser : car le premier ne faut-il pas admettre, pour ce que Dieu est éternel : ni le second aussi, pour ce que s'il dormait de toute éternité, il était mort : car un dormir éternel c'est la mort; & qui plus est, Dieu ne peut être susceptible de sommeil : car l'immortalité de Dieu, & l'être prochain de la mort, sont bien éloignés l'un de l'autre. Et si Dieu était éveillé, ou il défaillait aucune chose à sa béatitude, ou il avait félicité toute complète, & ni en l'un ni en l'autre sorte il ne se pouvait dire bien heureux : car s'il lui défaillait quelque chose, il ne se pouvait dire entièrement heureux : & s'il ne lui défaillait rien, pour néant s'entremettait-il de vaine entreprise. Et s'il est un Dieu, & que par sa prudence les choses humaine soient gouvernées, comment est-ce que les méchants prospèrent en ce monde, & que les bons & honnêtes souffrent au contraire? Car Agamemnon, qui était comme dit le Poête, 
+
+En armes preux, & prudent en conseil, 
+
+fut par l'adultère de sa femme paillarde surpris & tué en trahison : & Hercule, qui était son parent, qui avait repurgé la vie humaine de tant de maux qui en troublaient le repos, étant empoisonné par Deianira, fut semblablement occis en trahison. 
+
+III. Opinions de Thalès touchant Dieu. D'Anaximandre. De Démocritus. De Pythagore. De Socrate & de Platon. D'Aristote. Des Stoïques. D'Epicure. 
+
+Thalès dit que Dieu est l'âme du monde : Anaximandre, que les astres sont les dieux célestes : Démocritus, que Dieu est un entendement de nature du feu, l'âme du monde : Pythagore, que des deux principes l'unité était Dieu, & le Bien, qui est la nature de l'un & l'entendement : & que le nombre binaire indéfini était le diable, & le mal, à qui appartient toute la multitude matérielle & tout ce monde visible : Socrate & Platon, que c'est un unique & simple de nature, né de soi-même, & seul & véritablement bon, & tous ces noms là tendent à un entendement : cet entendement est donc Dieu, forme séparée à part, c'est-à-dire, qui n'est même avec matière quelconque, ni n'est conjoint à chose quelconque passible : Aristote tient, que le Dieu suprême est une forme séparée, appuyée sur la rondeur & sphère de l'univers, laquelle est un corps éthéré & céleste, qu'il appelle le cinquième corps : & que tout ce corps céleste étant divisé en plusieurs sphères de natures cohérentes & séparées seulement d'intelligence, il estime chacune de ces sphères-là être un animal composé de corps & d'âme, desquelles le corps est éthéré, se mouvant circulairement, & l'âme raison immobile cause de mouvement, selon l'action, [268] 
+
+Les Stoïques en général universellement définissent que Dieu est un feu artificiel procédant par ordre à la génération du monde, qui comprend en soi toutes les raisons des semences, desquelles toutes choses fatalement se produisent & viennent à être : & un esprit qui va & pénètre partout le monde changeant de nom & d'appellation par toute la matière, où il pénètre par transition de l'un en l'autre : & que le monde est Dieu, les étoiles, la terre, & l'entendement suprême qui est au ciel. 
+
+Epicure tient, que tous les dieux ont forme d'homme, mais qu'ils ne peuvent être aperçus que de la pensée seulement, pour la subtilité de la nature de leur figure : & lui-même dit, que les autres quatre natures en général sont incorruptibles, à savoir les Atomes, le vide, l'infini, & les similitudes, lesquelles s'appellent semblables parcelles & éléments. 
+
+CHAPITRE VIII. Des démons & demi-dieux. 
+
+Les démons sont substance spirituelle, & les demi-dieux âmes séparées du corps. 
+
+Suivant le traité des dieux, il est convenable de traiter de la nature des démons & des demi-dieux. Thalès, Pythagore, Platon & les Stoïques tiennent que les démons sont substances spirituelles, & que les demi-dieux sont âmes séparées des corps, & qu'il y en a de bons & de mauvais : les bons sont les bonnes âmes, & les mauvais les mauvaises. Mais Epicure ne reçoit rien de tout cela. 
+
+CHAPITRE IX. De la Matière. 
+
+Matière est le premier sujet, soumis à génération, corruption & autres changements. Trois opinions sur ce point. 
+
+La matière est le premier sujet, soumis à génération & corruption, & à autres mutations. Les sectateurs de Thalès & de Pythagore, & les Stoïques, disent que cette matière est variable, muable, altérable & glissant, tout & partout l'univers. Les disciples de Démocrite tiennent, que les premiers Principes sont impassibles, comme les Atomes, le vide & l'incorporel. Aristote & Platon que la matière corporelle n'a forme, espèce, ni figure, ni qualité quelconque quant à sa propriété, mais que quand elle a reçu ces formes, elle en est comme la nourrice, le moule, la mère. Ceux qui disent que c'est eau ou terre ou feu, ou air, ne disent plus qu'elle soit sans forme, ains que c'est corps : & ceux qui tiennent que ce sont Atomes indivisibles, la font informe. [269] 
+
+CHAPITRE X. De l'Idée. 
+
+Idée est ce qui donne forme & tire en évidence les matières informes. 1. Opinion. 2. [Aristote] 3. [Stoïques] 
+
+Idée est la substance du corps, laquelle ne subsiste pas à part elle, mais figure & donne forme aux matières informes, & est cause de les faire venir en évidence. Socrate & Platon estiment que les Idées soient substances séparables, de la matière, mais bien subsistantes és pensements & imaginations de Dieu, c'est-à- dire, de l'Entendement. Aristote n'a point ôté les Idées, autrement dit espèces, mais non pas séparées de la matière les patrons de tout ce que Dieu a fait. Les Stoïques, disciples de Zénon, ont dit, que nos pensées étaient des Idées. 
+
+CHAPITRE XI. Des Causes. 
+
+Cause est ce dont dépend un effet ou pourquoi une chose advient, & quelles elles sont. 1. Opinion [Pythagore & Aristote]. 2. [Les Stoïques] 
+
+La cause est ce dont dépend un effet, ou ce pourquoi quelque chose advient. Platon fait trois genres de causes : car il dit que c'est par quoi, de quoi ou pour quoi : mais il estime que la principale est par quoi, c'est-à-dire la cause efficiente, qui est l'entendement. Pythagore & Aristote tiennent, que les premières causes sont incorporelles, les autres causes par participation ou par accident sont de substance corporelle, tellement que le monde est corps. Les Stoïques tiennent, que toutes causes sont corporelles, d'autant que ce sont esprits. 
+
+CHAPITRE XI. Des Corps. 
+
+Que c'est que corps, & ce qu'ont estimé Platon. Aristote. Les Stoïques. Les Epicuriens. 
+
+Le corps qui est mesurable & divisible en trois sens, longueur, largeur & profondeur : ou, le corps est une masse qui résiste au toucher tant qu'en soi est, ou ce qui occupe lieu. Platon, ce qui n'est ni pesant, ni léger, étant en son propre lieu naturel, mais en lui étranger il a inclinaison premièrement & puis après impulsion à pesanteur ou à légèreté. Aristote tient, que la terre est la plus pesante simplement, & plus léger le feu, & l'eau entre deux aucunefois ainsi aucunefois autrement. Les Stoïques, que des quatre éléments, il y en deux légers, le feu & l'air : & deux pesants, l'eau & la terre : car léger est ce qui par nature, & non par instigation, part & se meut de son propre milieu; & pesant, ce qui rend à son milieu : mais le milieu même n'est pas pourtant pesant. Epicure tient, que les corps ne sont pas contenables & que les premiers sont simples, mais que les composés d'iceux ont tous pesanteur : que les Atomes se meuvent les uns à plomb, les autres à côté, & aucun contre-mont, par un poussement & percussion. [270] 
+
+CHAPITRE XIII. Des moindres Corpuscules. 
+
+Opinion d'Empédocle & d'Héraclite. 
+
+Empédocle est d'opinion, que devant les quatre Eléments il y a de très petits fragments, comme Eléments devant Eléments, de semblable parcelle, tous ronds. Héraclite introduit ne sait quelle sciures ou raclures très petites, sans aucunes parties indivisibles. 
+
+CHAPITRE XIV. Des Figures. 
+
+Figure est la superficie, circonscription & finissement du corps. 
+
+Figure est la superficie, circonscription & finissement du corps. Les disciples de Pythagore tiennent, que les corps des quatre Eléments sont ronds comme boules, & que le plus haut, qui est le feu, est en forme de pyramide. 
+
+CHAPITRE XV. Des Couleurs. 
+
+Couleur est qualité visible du corps, & diverses opinions des autres Philosophes. 
+
+Couleur est qualité visible du corps. Les Pythagoriques appelaient couleur la superficie du corps : Empédocle, ce qui est convenable aux conduits de la vue : Platon une flamme sortant des corps, ayant des parcelles proportionnées à la vue : Zénon le Stoïque, que les couleurs sont les premières figurations de la matière. Les disciples de Pythagore tiennent, que les genres des couleurs sont le blanc & le noir, le rouge & le jaune, & que la diversité des couleurs, procède de certaine mixtion des Eléments, & és animaux, de la différence de leurs moeurs, & de l'air. 
+
+CHAPITRE XVI. De la coupe des corps. 
+
+Contrariétés des philosophes touchant la section des corps. 
+
+Les sectateurs de Thalès & de Pythagore, que les corps sont passibles & divisibles jusqu'à l'infini, Démocrite & Epicure tiennent, que la section s'arrête aux Atomes indivisibles; & aux petits corps qui n'ont point de parties & que cette division ne passe point outre à l'infini : Aristote dit que potentiellement ils se divisent en infini, mais actuellement, non. 
+
+CHAPITRE XVII. De la mixtion & température. 
+
+Comment les Eléments se mêlent. 
+
+Les Anciens tiennent, que ceste mélange des Eléments se fait par altération : mais Anaxagore & Démocrite di [271] sent que c'est par apposition : Empédocle compose les Eléments de plus petites masses, qu'il entend être les moindres corpuscules &, comme par manière de dire, Eléments des Eléments : Platon est d'opinion, que les trois corps (car il ne veut pas que ce soient proprement Eléments, ni ne les daigne pas ainsi apeller) soient convertissables les uns és autres, à savoir l'eau, l'air & le feu, mais que la terre ne se peut tourner en pas un d'eux. 
+
+CHAPITRE XVIII. Du Vide. 
+
+Epicuriens contraires aux philosophes Ioniques en la dispute du vide. 
+
+Les philosophes, naturels de l'école de Thalès, jusques à Platon, ont tous généralement réprouvé le Vide. Empédocle écrit, 
+
+Le monde n'a rien vide ou superflu : 
+
+Leucippe, Démocrite, Démétrius, Métrodore, Epicure, tiennent, que les Atomes sont infinis en multitude, & le Vide infini en la magnitude : les Stoïques, que dedans le monde il n'y a rien de vide, mais dehors infini : Aristote, qu'il y a hors du monde tant de vide, que le ciel puisse respirer, dautant qu'il est de la nature du feu. 
+
+CHAPITRE XIX. Du Lieu. 
+
+Opinion de Platon & d'Aristote. 
+
+Platon dit que c'est ce qui est susceptible des formes les unes après les autres, qui était par translation exprimer la matière première, comme une nourrice qui reçoit tout; Aristote, que c'est superficie du contenant, conjoint & touchant au contenu. 
+
+CHAPITRE XX. De la Place. 
+
+Subtile distinction des Stoïques & Epicuriens. 
+
+Les Stoïques et Epicure tiennent, qu'il y a différence entre vide, lieu & place : & que le vide était solitude des corps : le lieu, ce qui était occupé du corps : & la place, ce qui est partie occupé, comme il se voit en un tonneau de vin. 
+
+CHAPITRE XXI. Du Temps. 
+
+Trois avis touchant le temps. 
+
+Pythagore dit, que le temps est la sphère du dernier ciel, qui contient tout : Platon l'image mobile de l'éternité, ou l'intervalle du mouvement du monde : Eratosthène, le cours du Soleil. [272] 
+
+CHAPITRE XXII. De l'essence du Temps. 
+
+Autres trois avis de l'essence d'icelui. 
+
+Platon, que l'essence du temps est le mouvement du ciel, plusieurs des Stoïques, que c'est le mouvement même, & la plus part, que le temps n'a point eu de commencement de génération, Platon qu'il a été engendré selon l'intelligence & apercevance des hommes. 
+
+CHAPITRE XXIII. Du mouvement. 
+
+Diverses opinions du mouvement, toutes condamnées par Héraclite. 
+
+Pythagore & Platon tiennent, que c'est mouvement & altération en la matière : Aristote, que c'est l'actuelle opération de ce qui est mobile : Démocrite, qu'il n'y a qu'un genre de mouvement en travers : Epicure deux, l'un à plomb & l'autre à côté : Erophile, qu'il y a un mouvement perceptible à l'entendement, un autre au sens naturel, Héraclite ôtait toute station & tout repos des choses de ce monde, disant que cela était propre aux morts : mais que mouvement éternel était affecté aux substances éternelles; & périssables aux substances corrompables. 
+
+CHAPITRE XXIV. De la Génération & Corruption. 
+
+Les disciples de Zénon & Epicure condamnés par les Pythagoriques sur le point de la génération & corruption. 
+
+Parménide, Mélissos & Zénon ôtaient toute génération & corruption, dautant qu'ils estimaient l'univers être immobile : mais Empédocle & Epicure & tous ceux qui tiennent que le monde est composé par un amas de petits corpuscules, admettent bien des assemblements & désassemblements, mais non pas des générations & corruptions, à parler proprement, disant que cela ne se fait pas selon qualité par altération, mais selon quantité par assemblement. Pythagore & tout ceux qui supposent la matière passible, tiennent qu'il se fait génération & corruption proprement, dautant qu'ils disent que cela se fait par altération, mutation & résolution des Eléments. 
+
+CHAPITRE XXV. De la Nécessité. 
+
+Nécessité très forte, embrassant le monde,cause de tout & une avec Destinée, Justice, Providence & Dieu. 
+
+Thalès appelle la Nécessité très forte, comme celle qui tient tout le monde; Pythagore disait que Nécessité embrasse le monde; Parménide & Démocrite, que toutes choses se font par Nécessité, & que c'est tout un que la Destinée, la Justice, la Providence, l'ouvrier du monde. [273] 
+
+CHAPITRE XXVI. De l'essence de Nécessité. 
+
+Discorde entre Platon, Empédocle & Démocrite sur ce point. 
+
+Platon réfère aucuns des événements à la Providence, autres à la Nécessité : Empédocle, que l'essence de Nécessité est la cause idoine à user des Principes & des Eléments : Démocrite, la résistance, la corruption & la percussion de la matière : Platon aucunefois, que c'est la matière, autrefois l'habitude l'agent vers la matière. 
+
+CHAPITRE XXVII. De la Destinée. 
+
+Opinions d'Héraclite. De Platon. Des Stoïques. 
+
+Héraclite, que toutes choses se font par Destinée, & que c'est la Nécessité même : Platon reçoit bien la Nécessité és âmes & actions des hommes, mais aussi y introduit-il la cause issante [Note 7] de nous. Les Stoïques conformément à Platon tiennent, que Nécessité est une cause invincible, & qui force tout : & que la Destinée est un entrelacement de telles causes entrelacées de rang, auquel enchainement est aussi comprise la cause procédante de nous, tellement que quelques uns des événements sont destinés, les autres plus que destinés. 
+
+CHAPITRE XXVIII. De la substance de Destinée. 
+
+Avis d'Héraclite. Platon. Chrysippe. Des Stoïques. De Posidonius. 
+
+Héraclite, que la substance de destinée est la raison, qui pénètre par toute la substance de l'univers, & que c'est un corps céleste, la substance de tout l'univers : Platon, que c'est la raison éternelle, & la loi éternelle de la nature de l'univers : Chrysippe, que c'est une puissance spirituelle, qui par ordre gouverne & administre tout l'univers : & derechef au livre des définitions : La Destinée est la raison du monde, ou bien la loi de toutes les choses qui sont au monde administrées & gouvernées par providence, ou la raison pour laquelle les choses passées ont été, les présentes sont, & les futures seront. Les Stoïques, que c'est une chaine des causes, c'est-à-dire, un ordre & une connexion, qui ne se peut jamais forcer, ni transgresser. Posidonius, que c'est la troisième après Jupiter, pour ce qu'il y a au premier degré Jupiter, au second Nature, au troisième la destinée. 
+
+CHAPITRE XXIX. De la Fortune. 
+
+Définitions différentes de Platon & d'Aristote, & la différence qu'Aristote met entre Fortune & cas d'aventure, ensemble les avis des autres Philosophes touchant la Fortune. 
+
+Platon, que c'est une cause par accident, & une conséquence és choses procédantes du conseil de l'homme, [274] Aristote, que c'est une cause fortuite & accidentelle és choses qui se font de propos délibéré à quelque certaine fin, icelle cause non apparente mais cachée. Qu'il différence entre Fortune & cas d'aventure, pour ce que toute Fortune est bien aussi cas d'aventure és affaire & action du monde : mais tout ce qui est cas d'aventure n'est pas quand & quand Fortune, parce qu'il consiste en choses qui sont hors d'action, & que la Fortune est proprement és actions des créatures raisonnables : & cas d'aventure est tant des animaux raisonnables que des irraisonnables, & des corps même qui n'ont point de vie ni d'âme. Epicure, que c'est une cause qui n'accorde point aux personnes, au temps, ni aux moeurs. Anaxagore & les Stoïques, que c'est une cause inconnue et cachée à la raison humaine, parce qu'aucunes choses, adviennent par nécessité, autres par destinée, autres par délibération propensée, autres par Fortune, & autres par cas d'aventure. 
+
+CHAPITRE XXX. De la Nature. 
+
+Nature est mixion & séparation des Eléments ou génération & corruption. 
+
+Empédocle tient que la Nature n'est rien, mais qu'il y a mixion et séparation des Eléments : car il écrit ainsi en son premier livre de Physique, 
+
+Je dirai plus, Ce n'est rien que Nature 
+
+De tous humains, ni n'est la mort obscure, 
+
+Termes ni fin, mais seule mixion 
+
+Des Eléments & séparation, 
+
+C'est cela seul que Nature on appelle. 
+
+Anaxagore semblablement, que Nature est assemblement et désassemblement, c'est-à-dire génération et corruption. [274] 
+
+ 
+
+LIVRE SECOND 
+------------ 
+
+Ayant donc achevé de traiter des Eléments, Principes, & autres matières semblables, je passerai outre maintenant à discourir des effets qui en sont composés. 
+
+CHAPITRE I. Du Monde. 
+
+Monde ainsi appelé, à cause de son ordre; n'y en a qu'un, & les contraires avis sur ce point. 
+
+Pythagore a été le premier qui a appelé le contenu de l'univers, Monde, pour l'ordre qui est en icelui. Tha [275] lès & ses disciples ont tenu, qu'il n'y a qu'un monde. Démocrite, Epicure, & leur disciple Métrodore, qu'il y a infinis mondes en un infini espace, selon toutes dimensions. Empédocle, que le cours du Soleil est la circonscription des bornes & termes du monde, & que cela est son confinement. Seleucus a tenu, que le monde est infini : Diogène, que l'univers est bien infini, mais que le monde est bien terminé & fini. Les Stoïques disent qu'il y a différence entre le tout & l'univers, pource que tout est l'infini avec le vide : & le tout sans le vide, le monde : tellement que ce n'est pas encore tout un, que le tout & le monde. 
+
+CHAPITRE II. De la Figure. 
+
+Le monde est rond. 
+
+Les Stoïques tiennent que le monde est rond : les autres pointu en pyramide, les autres en forme d'oeuf : Epicure, qu'il y en peut avoir de ronds, & d'autres d'autre forme. 
+
+CHAPITRE III. Si le Monde est animé. 
+
+Le monde n'est animé, selon Aristote, réfutant tous les autres : mais, au contraire de l'opinion d'Aristote, le monde est gouverné par la providence. 
+
+Tous les autres tiennent qu'il est animé, & gouverné par la providence : Démocrite, Epicure, & généralement tous ceux qui ont mis en avant les Atomes, & le vide, qu'il n'est ni animé ni gouverné par la providence, ains par quelque nature non capable de raison. Aristote, qu'il n'est ni animé tout, & en toutes ses parties, ni sensible, ni raisonnable, ni intellectuel, spirituel, ou gouverné par la providence : bien sont tous les corps célestes capables de toutes ces qualités-là, pource que les sphères des cieux sont animées & vivantes, mais que les corps terrestres n'ont aucune de toutes ces qualités-là, & que l'ordre qui est entre eux, y est par accident, non par raison propensée. 
+
+CHAPITRE IV. Si le Monde est incorruptible. 
+
+Mélange d'opinion provenant de l'ignorance de la création du monde, du péché de l'homme, de la fin du monde, & du jugement dernier. 
+
+Pythagore & Platon, que le monde a été engendré de Dieu, & qu'il est incorruptible quant à sa nature, dautant qu'il est sensible, comme étant corporel, mais toutefois qu'il ne périra ni ne se corrompra point, pour la providence divine qui le conserve & contient : Epicure, qu'il est périssable, dautant qu'il est engendré ni plus ni moins qu'un animal ou une plante : Xénophane, que le monde est éternel [276] & incorruptible, non fait par création : Aristote, que la partie du monde qui est au dessous de la Lune, est toute passible, & que les corps voisins de la terre sont sujets à corruption. 
+
+CHAPITRE V. Dont se nourrit le Monde. 
+
+Autres opinions extravagantes tirée de fausses présuppositions. 
+
+Aristote, que si le monde se nourrit, il se corrompra. Or est-il qu'il n'a besoin de nulle nourriture : par conséquent donc aussi est-il éternel. Platon, que le monde se baille à soi-même nourriture de ce qui se corrompt, par mutation : Philolaos, qu'il y a double corruption, quelquefois par le feu tombant du ciel, & quelque fois par l'eau de la Lune, qui se répand par subversion de l'air. 
+
+CHAPITRE VI. A quel Elément commença Dieu à fabriquer le Monde. 
+
+Pour la résolution de cette question & de la plupart des préceptes & suivantes, voyez Moïse en décrit au premier chapitre du livre appelé Genèse. 
+
+Les Naturalistes tiennent que la création du monde commença à la terre, comme étant le centre d'icelui, dautant que le commencement d'une sphère, c'est le centre : Pythagore, au feu, & au cinquième Elément : Empédocle, que le premier qui fut séparé fut la quinte-essence, le second fut le feu, après lequel la terre, de laquelle étant un peu étroitement serrée, par l'impétuosité de sa révolution, sourdit l'eau, laquelle s'évapora en air : & que le ciel fut fait de la quinte-essence, le Soleil du feu : & que des autres Eléments furent constipés & composés les corps terrestres, & voisins de la terre. Platon, que ce monde visible a été formé au moule & patron de l'intellectuel, & que du monde visible, l'âme a été faite la première, & après elle ce qui est corpulent : ce qui est du feu & de la terre, le premier, & ce qui est de l'eau & de l'air, le second. Pythagore, que des cinq figures des corps solides, lesquels s'appellent aussi Mathématiques, du Cube, qui est le corps carré à six faces, avait été faite la terre : de la Pyramide, le feu : du corps à huit faces, qui est l'Octaèdre, l'air : de l'Isocaèdre, qui est le corps à vingt faces, l'eau : & du Dodécaèdre, qui est le corps à douze faces, la suprême sphère de l'univers. Platon même en cette opinion suit Pythagore. [277] 
+
+CHAPITRE VII. De l'ordre de la fabrique du Monde. 
+
+Voyez le premier chapitre du Genèse. Diverses opinions de Leucippe, Démocrite, & Epicure. De Platon. D'Aristote. D'Empédocle. 
+
+Parménide disait, que c'était comme des couronnes entrelacées l'une dedans l'autre, l'une de substance rare, l'autre épaissie, mêlées l'une & l'autre de lumière & de ténèbres entre elles, & que ce qui les contenait ensemble toutes, était ferme comme un mur. Leucippe & Démocrite enveloppent le monde d'une tunique ou membrane. Epicure tenait que de quelques mondes les extrémités étaient rares, & de quelques autres épaisses, & que d'iceux aucuns étaient mobiles, autres immobiles. Platon met le feu premier, puis le ciel, après l'air, & puis l'eau, & la dernière la terre, mais aucunefois il conjoint le ciel avec le feu : Aristote en premier lieu le ciel impassible, qui est le cinquième corps, après lequel les Eléments passibles, le feu, l'air, l'eau & la terre la dernière, desquels il attribue le mouvement circulaire au corps célestes, & des autres qui sont au dessous, aux légers le mouvements contre-mont : aux pesants, le mouvement contre-bas. Empédocle ne pense pas que les lieux des Eléments soient toujours arrêtés & certains, mais qu'ils le changent tous entr'eux. 
+
+CHAPITRE VIII. Pour quelle cause est le Monde penchant. 
+
+Quelle résolution peuvent donner ceux qui sont si peu résolus, & qui disputent, si subtilement sans preuves ni raisons. 
+
+Diogène & Anaxagore, après que le monde fut composé, & les animaux sortis & produits de la terre, que le monde se pencha ne sait comment de lui-même, en la partie devers le Midi, à l'aventure par la divine providence, afin qu'il y eut aucunes des parties du monde habitables, autres inhabitables, par froid excessif, par embrasement, & par température : Empédocle, que l'air cédant à la violence du Soleil, les pôles penchèrent, & que celui du côté de la bise se leva contre-mont, celui devers le Midi s'abaissa, & par conséquent tout le monde. 
+
+CHAPITRE IX. A savoir si hors du monde il y a du vide. 
+
+Les Pythagoriques & Aristote. 
+
+Les disciples de Pythagore tiennent qu'il y a du vide hors le monde, dedans lequel & duquel le monde re [278] spire : mais les Stoïques, auquel par embrasement se resout l'infini. Posidonius ne le met pas infini, mais autant comme il suffit à la dissolution. Au premier livre du vide Aristote disait qu'il y avait du vide : Platon qu'il n'y avait rien de vide, ni dedans le monde, ni au dehors. 
+
+CHAPITRE X. Quelle est le partie droite, & quelle est la partie gauche du monde. 
+
+Orient & le tropique d'été est la droite partie. 
+
+Pythagore, Platon, Aristote, que l'Orient est la droite partie, & l'Occident la gauche : Empédocle, que la partie droite est vers le Tropique de l'été, la gauche devers le Tropique de l'hiver. 
+
+CHAPITRE XI. Du ciel, & quelle est sa substance. 
+
+Aristote condamne l'opinion d'Anaximène, approche de celle d'Empédocle. 
+
+Anaximène tient, que la circonférence extérieure du ciel est de terre : Empédocle, qu'il est solide, le ciel étant de l'air congelé par le feu, ni plus ni moins que le cristal, & qu'il contient ce qu'il y a de feu & d'air en l'un & en l'autre hémisphère : Aristote qu'il est composé du cinquième corps, ou d'un mélange de chaud & de froid. 
+
+CHAPITRE XII. De la division du Ciel, & en combien de cercles il se divise. 
+
+Cinq ceintures ou bandes & à travers celle du Zodiaque, entre-taillées à angles droits par le Meridien, qui passe du pôle Arctique à l'Antarctique. 
+
+Thalès, Pythagore, & ses sectateurs, que toute la boule du ciel est départie en cinq cercles, qu'on appelle Zodiaque ou ceintures, & d'iceux l'un s'appelle Arctique, & toujours apparent, l'autre Tropique d'été, l'autre Equinoctial, l'autre Tropique d'hiver, l'autre Antarctique, & toujours caché, & puis un oblique en travers les trois du milieu, qui s'appelle Zodiaque, touchant en passant tous les trois, lesquels sont tous entre-taillés à angles droits par le Méridien, qui passe d'un pôle à l'autre. Pythagore, à ce qu'on dit, fut le premier, qui s'avisa de l'obliquité du Zodiaque, laquelle invention néanmoins Ocnipe natif de Chio s'attribue, comme en était auteur. 
+
+CHAPITRE XIII. Quelle est la substance des Etoiles, & comment elles sont composées ;[279] 
+
+Etranges opinions de Thalès, d'Empédocle, d'Anaxagore, de Diogène. D'Empédocle, de Platon. De Xénophane. Des Pythagoriens. D'Epicure. 
+
+Thalès tient qu'elles sont terrestres, mais enflammées néanmoins : Empédocle, qu'elles sont enflammées, & de feu, que le ciel contenait en soi à la première excrétion : Anaxagore, que le ciel qui nous environne est bien de nature de feu, quant à son essence, mais que par la véhémence de sa révolution ravissant des pierres de la terre, & les ayant allumées, elles devinrent astres. Diogène estime que elles soient de la nature de la pierre ponce, & que ce soient les soupiraux du monde : & derechef lui-même, que ce soient pierres non apparentes, lesquelles tombantes bien souvent en terre, s'éteignent comme il advint au lieu appelé, Les fleuves de la chèvre, où il tomba jadis un astre de pierre en forme de feu. Empédocle, que les étoiles fixes sont attachées au cristal du ciel, mais que les Planètes sont détachées : Platon, que pour la plus part elles sont de feu, mais néanmoins qu'elles participent encore des autres Eléments, comme de la colle : Xénophane, que ce sont des nuées enflammées, mais qui s'éteignent par chacun jour, & puis la nuit elles se r'allument comme les charbons, & que leur lever & leur coucher est un allumer & éteindre : Héraclide & les Pythagoriens, que chacun des astres est un monde contenant une terre & un air & un ciel en une nature éthérée, infinie : & ces opinions-là sont és vers Orphiques, où de chacun astre ils font un monde. Epicure ne réprouve rien de tout cela, se tenant à son, il peut être. 
+
+CHAPITRE XIV. De la figure des astres. 
+
+Astres sont sphériques, comme le monde, le Soleil, & la Lune, Anaximène ajoutant qu'ils sont fichés au ciel. 
+
+Les Stoïques tiennent que les astres sont sphériques, ni plus ni moins que le monde, le Soleil & la Lune : Cléanthe, qu'il sont de forme de pyramide. Anaximène, qu'ils sont fichés, comme têtes de clou au cristal du ciel. Autres tiennent que ce sont comme lames enflambées, comme des peintures. 
+
+CHAPITRE XV. De l'ordre & situation des astres. 
+
+Platon distingue les cieux plus exactement que les autres Philosophes. 
+
+Xénocrate estime qu'ils se meuvent sur une même superficie, mais les autres Stoïques, qu'il y en a les uns devant, les autres en bas & haut. Démocrite met les étoiles fixes les premières, & puis après les planètes & errantes, après lesquelles il met le Soleil, la Lune, & Lucifer, Venus. Platon après la situation des étoiles fixes met en premier lieu celle [280] qui s'appelle Phénon, qui est l'étoile de Saturne : la seconde de Phaëton, qui est celle de Jupiter : le tierce Pyroïs, c'est-à- dire, enflambée, qui est celle de Mars : la quatrième Phosphorus, qui est celle de Venus : la cinquième Stilbon, celle de Mercure : la sixième, le Soleil : la septième, la Lune : & au dessous d'icelle, les étoiles fixes & errantes. 
+
+CHAPITRE XVI. Du mouvement des astres. 
+
+Voyez les discours des Astronomes anciens & modernes sur cette dispute & autres précédantes & suivantes. 
+
+Anaxagore, Démocrite, Cléanthe, tiennent que tous les astres vont de l'Orient en Occident, Alcméon & les Mathématiciens disent que les Planètes se meuvent à l'opposite des étoiles fixes, de l'Occident en Orient : Anaximandre, qu'ils sont portés par les sphères & cercles, sur lesquels ils sont attachés : Anaximène, qu'elles se meuvent aussi bien vers la terre, comme à l'entour de la terre : Platon & les Mathématiciens, que le cours du Soleil, de Vénus, & de Mercure, sont égaux. 
+
+CHAPITRE XVII. D'où sont les étoiles enluminées. 
+
+Voyez comme dessus. 
+
+Métrodore, que toutes les étoiles fixes sont illuminées du Soleil : Héraclite & les Stoïques, que les étoiles se nourrissent des exhalaisons montants de la terre : Aristote, que les corps célestes n'ont point besoin de nourriture, pource qu'ils ne sont pas corruptibles, mais éternels : Platon & les Stoïques, que tout le monde & les étoiles, semblablement se nourrissent d'eux-mêmes. 
+
+CHAPITRE XVIII. Des étoiles qu'on appelle Castor & Polux, & aujourd'hui feu saint Herme. 
+
+La résolution de cette question est traitée par ceux qui ont écrit des Météores. 
+
+Xénophane, que les étoiles qui apparaissent quelquefois sur les navires, sont de subtiles nuées, qui selon un certain mouvement reluisent : Métrodore, que ce sont étincelles sortant des yeux de ceux qui les regardent avec crainte & étonnement. 
+
+CHAPITRE XIX. De la signifiance des étoiles, & comment se font l'hiver & l'été;. [281] 
+
+L'hiver & l'été amenés par le Soleil, la Lune & les étoiles. 
+
+Platon dit, que les signifiances de l'été & de l'hiver procèdent du lever & du coucher du Soleil & de la Lune, & des autres étoiles, tant fixes comme errantes : Anaximène, que cela n'advient point par la Lune, mais par le Soleil seul : Eudoxe & Aratus, que c'est communément par toutes les étoiles, & dit en ces vers, 
+
+Dieu a fiché les astres radieux, 
+
+Signes certains en la voûte des cieux, 
+
+Les départant tout au long de l'année, 
+
+Pour nous montrer comment elle est gouvernée. 
+
+CHAPITRE XX. De la substance du Soleil. 
+
+Le Soleil défini par Platon être un corps de beaucoup de feu. Simple définition entre celles que contient ce chapitre, pour la ferme résolution duquel lisez les écrits des anciens & modernes Astronomes. 
+
+Anaximandre, que c'est un cercle vingt & huit fois aussi grand comme la terre, ayant le tour semblable à celui d'une roue de chariot plein de feu, auquel en certain endroit il y a une bouche, par laquelle il montre son feu, comme par le trou d'une flûte. Xénophane, que c'est amas de petits feux, qui s'assemblent des humides exhalaisons, qui tous ensemble font le corps du Soleil, ou bien que c'est une nuée enflambée. Les Stoïques, que c'est un corps enflambé, procédant de la mer : Platon, un corps de beaucoup de feu. Anaxagore, Démocrite, Métrodore, que c'est une masse, ou une pierre enflambée : Aristote, que c'est une boule du cinquième corps : Philolaos Pythagorien, que c'est une manière de verre, recevant la réverbération du feu, qui est en tout le monde : & en transmet la lumière à nous comme à travers un tamis, tellement que ce qui est au ciel allumé, ressemble au Soleil, & puis ce qui procède de lui, en forme de miroir, & tiercement la splendeur qui par réflexion de ce miroir se répand sur nous , car nous appelons cette splendeur-là, le Soleil, étant comme étant l'image de l'image. Empédocle, qu'il y a deux soleils, le premier le feu original, qui est en l'autre demie boule du monde, & remplit cette autre demie boule-ci, étant toujours située vis-à-vis de sa resplendissante lueur par réflexion, & puis sa splendeur qui nous apparaît en l'autre demie boule, remplie d'air mêlée de chaleur, laquelle splendeur se fait par réfraction de la terre ronde dedans ce Soleil qui est de nature de cristal, & qui est entrainé par le mouvement de celui de feu. Et pour dire plus clairement en peu de paroles, c'est-à-dire, le Soleil n'est autre [282] chose que la réflexion de la lueur du feu, qui est en la terre. Epicure, que c'est une épaisseur terrestre, percée à jour comme une pierre ponce, & allumée de feu. 
+
+CHAPITRE XXI. De la grandeur du Soleil. 
+
+Les Astronomes modernes prouvent qu'il est 166. fois plus grand que la terre. 
+
+Anaximandre, que le Soleil est égal à la terre, mais que le cercle sur lequel il a sa respiration & sur lequel il est porté, est vingt & sept fois aussi grand que toute la terre. Anaxagore, qu'il est plusieurs fois aussi grand que tout le Péloponnèse : Héraclite qu'il est large comme le pied d'un homme. Epicure derechef dit que tout ce qui est dit, peut être, ou qu'il est aussi grand comme il nous apparaît à la vue, ou peu plus grand, ou peu plus petit. 
+
+CHAPITRE XXII. De la forme du Soleil. 
+
+Le Soleil de forme ronde; 
+
+Anaximène, qu'il est plat comme une lame : Héraclite, qu'il est de la forme d'une nacelle, ainsi boussu par dessous. Les Stoïques, qu'il est rond comme le monde & les étoiles. Epicure, que tout ce qui est dit, peut être. 
+
+CHAPITRE XXIII. Des Solstices. 
+
+Le Solstice, dit Aristote, se fait à cause de l'obliquité du Zodiaque, par lequel le Soleil chemine en biaisant, & pour la circonstance des deux tropiques. 
+
+Anaximène, que les astres sont repoussés par l'air épaissi résistant : Anaxagore, par repoussement de l'air qui est à l'entour des Pôles, que le Soleil même poussant rend plus fort par l'épaississement : Empédocle, que la Sphère qui le contient l'empêche de passer outre, & semblablement aussi les deux cercles Tropiques. Diogène tient que le froid s'opposant à la chaleur, le Soleil s'éteind : les Stoïques, que le Soleil passe à travers l'espace de sa pâture, qui est au- dessous de lui, qui est la mer Océane, & la terre, des vapeurs & exhalaisons desquellles il se nourrit : Platon, Pythagore, Aristote, que c'est à cause de l'obliquité du cercle Zodiaque, par lequel il chemine en biaisant, & pour la circonstance des deux cercles Tropiques, dont il est environnés, ce que même la sphère montre évidemment. 
+
+CHAPITRE XXIV. De l'Eclipse du Soleil. 
+
+La doctrine de la sphère éclaircie par les Astronomes de notre temps, approuve & explique l'opinion de Thalès. 
+
+Thalès a dit le premier, que le Soleil éclipse & défaut quand la Lune se met au dessous droitement à plomb, dautant qu'elle est de sa nature terrestre, ce qui se voit claire [283] ment comme en un miroir, dedans un bassin. Anaximandre dit que c'est quand la bouche par où sort la chaleur du feu est close : Héraclite, quand le corps du Soleil, qui est en forme de nacelle, se tourne dessus dessous, de manière que la partie courbe soit contre-mont, & la bossue contre-bas devers notre vue. Xénophane, que cela se fait par extinction, & puis qu'il retourne derechef à sa première clarté le lendemain à son lever : & si écrit davantage, qu'il y a tellement éclipse du Soleil qui dure tout un mois, & aussi une éclipse toute entière, de sorte qu'il semble que le jour devienne nuit. Aucuns tiennent que cela se fait par un épaississement de nuées, qui surviennent à l'imprévu au devant de la plaque du Soleil. Aristarque met le Soleil entre les étoiles fixes, & dit que c'est la terre qui se tourne à l'entour du Soleil, & que selon les inclinations, elle vient à l'obscurcir de son ombre. Xénophane tient qu'il y a plusieurs Soleil, & plusieurs Lunes, selon la diversité des Climats de la terre, & à quelque révolution de temps le rond du Soleil vient à donner en quelque appartement de la terre qui n'est pas habituée, & que ainsi marchant comme par un pays vide, il vient à souffrir l'éclipse : le même dit, que le Soleil va tout droit à l'infini, mais que par la longueur de la distance il nous semble qu'il tourne. 
+
+CHAPITRE XXV & XXVI. De la substance de la Lune, & de la grandeur d'icelle. 
+
+La Lune est un corps partie opaque, partie transparent humide & moyennement chaud à cause de la Lumière du Soleil, dont il emprunte la sienne, & est beaucoup moindre que la terre. 
+
+Anaximandre dit que c'est un cercle dixneuf fois aussi grand que toute la terre, tout plein de feu, comme celui du Soleil, & qu'elle éclipse quand la roue se tourne, pource qu'il dit que ce cercle ressemble à une roue de chariot qui a la curvature de son tour creuse & pleine de feu : mais qu'il y a comme un soupirail par où ce feu s'exhale. Xénophane dit, que c'est une nuée épaisse & serrée : les Stoïques, qu'elle est mêlée de feu & d'air : Platon que elle tient plus du feu : Anaxagore, Démocrite, que c'est une fermeté allumée, où il y a des campagnes, des montagnes & des vallées : Héraclite, que c'est une terre environnée de brouillards : Pythagore, que le corps de la Lune tire sur la nature du feu; 
+
+CHAPITRE XXVII. De la forme de la Lune. 
+
+De forme ronde 
+
+Les Stoïques la prononcent plus grande que toute la terre, & le Soleil de même : Parménide, qu'elle est égale [284] au Soleil, & qu'elle est enluminée par lui : les Stoïques, qu'elle est ronde comme une boule, ainsi que le Soleil : Empédocle, qu'elle est de la forme d'un bassin : Héraclite, de la forme d'une nacelle : les autres, de la forme d'une pyramide ronde. 
+
+CHAPITRE XXVIII. Des illuminations de la Lune. 
+
+Encore que ce corps ait lumière propre, toutefois pource qu'il serait trop petit & obscur pour la charge qu'il a d'éclairer la nuit, il en emprunte du Soleil. 
+
+Anaximandre tient qu'elle a une lumière propre, mais un peu plus rare : Antiphon, qu'elle lui de sa propre lumière : & ce qu'elle se cache quelquefois procède de l'opposition du Soleil, quand un plus grand feu vient à obscurcir un moindre feu, ce qui même advient aux autres étoiles. Thalès & ses sectateurs, que c'est tout de même de la Lune comme du Soleil, pource que tous deux étant de la forme & figure d'une nacelle, & que recevant des humides exhalaisons, ils sont illuminés à notre vue, le Soleil plus clairement, dautant qu'il chemine par un air plus pur & plus clair, & la Lune en un plus trouble, & pour cette occasion elle semble plus obscure. 
+
+CHAPITRE XXIX. De l'Eclipse de la Lune. 
+
+L'Eclipse lunaire est une défaillance de la Lumière que la Lune emprunte du Soleil, par l'ombre de la terre entre le Soleil & la Lune, lors qu'ils sont diamétralement opposés. 
+
+Anaximène dit que c'est quand la bouche par où feu sort est estoupée [Note 8] : Berosus, que c'est quand la face qui n'est point allumée se tourne devers nous : Héraclite, que c'est quand la bosse de la nacelle nous regarde & se tourne devers nous : aucuns des Pythagoriens, que c'est une réverbération ou obstruction de notre terre, ou bien d'une autre opposite. Mais les plus modernes tiennent, que c'est par augmentation de la Lune qui se va allumant peu à peu règlement jusques à ce qu'elle face la pleine Lune, & derechef se tourne, diminuant en même proportion, jusques à la conjonction à laquelle elle s'éteind entièrement. Platon, Aristote, les Stoïques, les Mathématiciens tout d'un accord disent que ce que tous les mois elle s'absconse, est parce qu'elle se vient joindre au Soleil, de la lumière duquel elle est toute offusquée, mais que les Eclipses se font quand elle vient à donner dedans l'ombre de la terre, qui se trouve directement entre ces deux grands luminaires, ou plutôt parce que la lune est toute bouchée. [285] 
+
+CHAPITRE XXX. De l'apparence de la Lune, & pourquoi il semble qu'elle apparaît terrestre. 
+
+Opinions diverses réfutées par les Astronomes anciens & modernes. 
+
+Les Pythagoriens tiennent qu'elle apparaît terrestre pour autant qu'elle est tout à l'entour habitée, ni plus ni moins que la terre où nous sommes, est peuplée de plus grands animaux, & de plus belles plantes, parce que les animaux y sont quinze fois plus forts que ceux de ce monde : qui ne rendent aucuns excréments, & que la nuit y est en même proportion de longueur. Anaxagore dit, que l'inégalité qui apparaît en sa face, procède de ce qu'il y a du froid & du terrestre mêlé parmi, pour autant qu'il y a de la ténébrosité mêlée parmi la nature de feu : d'où vient qu'on l'appelle Astre de fausse lumière. Les Stoïques tiennent que pour la diversité de la substance la composition de son corps n'est pas incorruptible. 
+
+CHAPITRE XXXI. De la distance qu'il y a entre le Soleil & la Lune. 
+
+Voyez pour la réfutation de ce point & de toutes les autres disputes, & calculs des Astronomes. 
+
+Empédocle tient qu'il y a deux fois autant depuis la Lune jusques au Soleil, comme depuis la terre jusques à la Lune : les Mathématiciens disent qu'il y a dixhuit fois autant : Eratosthène, qu'il y a depuis la terre jusques au Soleil sept cents quatre vingts mille stades. 
+
+CHAPITRE XXXII. Des années, & combien contient la grande année de chacune des Planètes. 
+
+En combien de temps chaque planète fait son cours, & de la révolution du grand an. 
+
+L'an de Saturne est de trente ans communs : de Jupiter de douze : de Mars, de deux : du Soleil, de douze mois : & autant de Mercure & de Vénus, car leur cours est égal : de la Lune trente jours : car celui-là est le mois parfaits, depuis son apparition jusques à sa conjonction. Et quant au grand an, les uns le mettent à dixneuf ans, les autres à seize, & les autres à cinquante neuf. Héraclite le met à dixhuit mille ans solaires : Diogène, de trois cents soixante & cinq ans, tels comme l'an d'Héraclite les autres de sept mille sept cents soixante & sept ans. [286] 
+
+
+LIVRE TROISIEME 
+--------------- 
+
+Quant à cette doctrine des Météores elle est aujourd'hui clairement & doctement expliquée en plusieurs livres exprimés, s'il veut ample résolution de ce qui est touché en passant, ou qui semble n'être ferme ni recevable quelques fois. 
+
+Ayant sommairement traité és deux livres précédents, des corps célestes, & étant demeuré aux confins d'iceux, qui est la Lune, je me mettrai en ce troisième à traiter & discourir des Météores, c'est-à-dire, de ce qui se fait à mont, depuis le cercle de la Lune, jusques à la situation de la terre, laquelle on dit tenir le lieu de centre en la composition du Globe de l'univers & commencerai d'ici. 
+
+CHAPITRE I. Du cercle de lait. 
+
+Opinion poétique des Pythagoriens. 
+
+C'est un cercle qu'il semble nubileux, apparaissant toujours en l'air & qu'on nomme cercle lactée, pource qu'il a blanche couleur. Aucuns des Pythagoriens disaient, que c'était l'embrasement de quelque être, étant sorti hors de sa propre place, & ayant brûlé & embrasé en rond par tout le chemin où il était passé du temps de l'embrasement de Phaëton : les autres disent que ce fut anciennement par là le cours & la voie du Soleil. Aucuns tiennent que c'est une apparence spéculaire seulement par réflexion des rayons du Soleil sur la voûte du ciel, ni plus ni moins qu'il se fait en l'arc en ciel & aux nuées. Métrodore, que c'est pour le passage du Soleil, & que c'est le cours par où passe le Soleil. Parménide tient, que le mélange du rare & du pressé engendre cette couleur-là de lait. Anaxagore, que l'ombre de la terre s'arrête en cet endroit-là du ciel, quand le Soleil étant sous la terre n'illumine pas tout. Démocrite, que c'est la splendeur de plusieurs petites étoiles, près les unes des autres qui s'entre-illuminent à cause de leur épaisseur. Aristote tient, que c'est une exhalaison sèche qui s'allume, laquelle est une grande quantité, & s'entretient, & que ainsi se fait une chevelure de feu au dessous du ciel & des planètes : Posidonius, que c'est une consistance de feu plus claire qu'une étoile, & dont la splendeur est plus épaisse & plus serrée. 
+
+CHAPITRE II. Des comètes, étoiles passantes ou tombantes, & des chevrons de feu qui apparaissent en l'air. 
+
+Des comètes, & comme elles & [se?] font. Diverses opinions des philosophes. Diverses sortes d'icelles. Des étoiles passantes. 
+
+Aucuns des sectateurs de Pythagore tiennent que la comète est un astre du nombre de ceux qui n'apparaissent pas toujours, mais qui à certaines révolutions de temps prefix se montrent : les autres, que c'est une réflexion de notre vue vers le Soleil, laquelle se fait par les mêmes raisons que les apparences qui se font dedans les miroirs. Anaxagore, Démocrite, disent que c'est un concours de deux étoiles ou de plusieurs, que c'est une consistance d'une exhalaison sèche enflammée : Straton, que c'est la splendeur d'une étoile enveloppée d'un nuage épais comme il se fait és lampes : Héraclide Pontique, que c'est un nuage haut élevé qui est illuminé & éclairé par une sublime lumière aussi, & dit que l'étoile barbue se forme de même les autres, comme tous les Péripatéticiens disent que les chevrons, la colonne & autres semblables impressions qui apparaissent en l'air, se font par diverses conformations des nuées qui sont en l'air : Epignès , que c'est une élévation d'esprit & de vent mêlé de terre qui s'enflamme : Boetus que c'est une apparition d'air coulé. Diogène tient, que les Comètes sont étoiles : Anaxagore, que les étoiles passantes sont comme étincelles qui tombent du feu élémentaire : Métrodore, que c'est quand le Soleil vient à donner violemment dedans une nuée, que ses rayons en scintillent, Xenophane dit, que toutes telles apparition sont constitutions & épaississements ou mouvements de nuées qui s'enflamment. 
+
+CHAPITRE III. Des cérémonies, foudres, éclairs, vents brûlants, & sions [Note 9]. 
+
+Des tonnerres & comme ils se font. Foudres, éclairs, vents brûlants, & tourbillons comment engendrés. Que c'est du tonnerre, & comment il se fait. 
+
+Anaximandre tient, que tout cela se fait par le vent, pource que quand il advient qu'il est enfermé dedans une nuée épaisse, alors par sa subtilité & légèreté la rupture fait le bruit : & la divulsion, à cause de la noirceur de la nuée, cause la lumière : Métrodore, quand en une nuée serrée pour son épaisseur il vient à s'enfermer du vent, par l'effraction il fait le bruit, & par le coup & déchirure, il resplendit, & par la soudaineté de son mouvement prenant la chaleur du Soleil il foudroie, & quand la foudre est imbécile, elle se convertit en vent brûlant. Anaxagore dit, que c'est quand le chaud vient à tomber dedans le froid, c'est-à-dire, une partie [288] éthérée, ou du feu céleste, vient à s'enfermer dedans l'air, par le bruit elle engendre le tonnerre, & par la multitude & magnitude de la clarté, la foudre : & quand le feu a plus de corps, alors il se fait un tourbillon ou sion : & quand il tient plus de la nuée, alors il s'engendre un vent brûlant. Les Stoïciens disent, que tonnerre est un combat de nuées, l'éclair un embrasement par la friction, la foudre par une forte & véhémente lueur, & le vent brûlant par une plus lâche : Aristote, que tout cela se fait par une exhalaison sèche, qui se vient à rencontrer enclose dedans une nuée humide, & qu'elle s'efforce d'en sortir à force de se frotter l'un contre l'autre, & par l'effraction le bruit s'engendre du tonnerre, & par l'inflammation de la sécheresse l'éclair, le vent brûlant & le tourbillon, selon qu'il y a plus ou moins de matière, que l'un & l'autre tire quand & soi : car si elle est chaude, il se fait un vent brûlant : si elle est plus épaisse, un tourbillon ou sion. 
+
+CHAPITRE IV. Des Pluies, Neiges, & Grêles. 
+
+Par quels moyens elles se forment, & de leur matière. 
+
+Anaximène tient que les nuées se font parce que l'air vient à s'épaissir fort : & quand elles se coagulent encore davantage, alors il s'en exprime de la pluie : & de la neige, quand l'eau en tombant vient à se prendre & geler : & la grêle, quand elle vient à être surprise d'un vent froid. Métrodore tient, que les nuées se composent d'une élévation eveuse [Note 10] : & Epicure, des vapeurs : & que les gouttes d'eau de pluie & la grêle s'arrondissent par la longueur de leur descente. 
+
+CHAPITRE IV. De l'Arc en ciel. 
+
+L'arc en ciel est du nombre des météores qui se font en apparence seulement. Comment il se engendre. De ses douleurs [sic!] & comment elles apparaissent telles. Opinion d'Anaximène. D'Anaxagore. De Métrodore. 
+
+Entre les choses qui se font en l'air, aucunes ont véritable subsistance, comme la pluie, la grêle : les autres n'ont que l'apparence seulement, non point de réale subsistance, comme quand nous sommes dedans un bateau, il nous semble que la terre ferme se remue. L'arc en ciel donc est du nombre de celles qui se font seulement en apparence. Platon dit, que les hommes ont feint que c'était le fils de Thaumas, comme qui dirait, de merveille, pourautant qu'ils s'émerveillaient fort de le voir, comme montre Homère quand il dit, 
+
+Comme s'étend devant les humains yeux, [289] 
+
+L'arc teint de pourpre en la voûte des cieux. 
+
+C'est pourquoi aucuns ont fabuleusement inventé & mis en avant, que lui ayant une tête de Taureau humait les fleuves. Comment donc est-ce que s'engendre cet arc en ciel? Il est certain que nous voyons par lignes ou droites, ou courbes, ou bien rebattues, qui n'apparaissent point, ains se comprennent par le discours de la raison seulement, d'autant qu'elles n'ont point de corps. Or voyons-nous à droites lignes les choses à travers l'air, & à travers les pierres transparentes, ou les cornes11, pource que toutes ces matières-là sont de parties fort subtiles. Et voyons aussi par lignes courbes dedans l'eau : car notre vue se plie & se courbe par force, à cause que la matière de l'eau est plus épaisse, c'est pourquoi nous voyons une rame de loin, qui nous semble courbe. La troisième manière de voir est par réfraction, comme ce qu'on voit dedans les miroirs : l'arc en ciel est de telle sorte, car il faut entendre que la vapeur humide étant élevée contre- mont se tourne en nuée, & puis petit à petit en gouttes humides. Quand donc le Soleil vient à descendre vers l'Occident, il est force que tout arc céleste apparaisse vis-à-vis en la partie contraire du monde, quand notre vue donnant dedans ces gouttes-là, vient à être rebattue de manière qu'il se forme là un arc céleste : & sont ces gouttes-là, non point la forme de la figure d'arc, mais de la couleur. La première est rouge, la seconde jaune, la tierce bleue, la quarte verte : la couleur rouge donc apparaît, pourautant que la clarté du Soleil donnant dedans ces gouttes-là, & cette vive splendeur venant à être rebattue & renvoyée fait aparoir la couleur rouge : la seconde partie plus obscure & venant à dissoudre cette vive splendeur, fait la jaune, qui est comme un relâchement du rouge : & puis venant à se brouiller & obscurcir encore davantage ce qui segrège12 la vue, il se forme en vert. Ce qu'on peut éprouver par expérience, car si on prend de l'eau à l'opposite du Soleil, & qu'on la fasse distiller, de sorte que les gouttes d'eau rompent & rebattent les rayons du Soleil, on trouvera qu'il se fera une forme d'arc en ciel : le même advient à ceux qui ont les yeux malades, quand ils jettent leurs yeux sur une lampe. Anaximène estime que l'arc en ciel se fait par illumination du Soleil, qui donne dedans une nuée épaisse, grosse & noire, de manière que ses rayons ne pouvant percer & pénétrer à travers s'amassent sur icelle. Anaxagore tient, que c'est une réfraction de la lumière ronde du Soleil donnant contre une nuée épaisse, laquelle doit toujours être vis-à-vis de lui, ni plus ni moins qu'un miroir : par la même raison [289] naturelle, comme il dit, apparaissent principalement au pays de Pont, deux ou plusieurs Soleils. Métrodore tient, que quand le Soleil reluit à travers les nues, la nue apparaît bleue & la lueur se fait de couleur rouge. 
+
+CHAPITRE VI. Les Verges. 
+
+Comment se font les Verges les Soleils opposites. 
+
+Les Verges qui apparaissent quelquefois au ciel, & les Soleils opposites adviennent par la température de la matière sujette, & de l'illumination, quand les nuées nous apparaissent non en leur naturelle propre couleur, ains en autre, causée de la diverse irradiation : & en toutes ces apparitions-là mêmes effets adviennent, & par raisons naturelles, & par épreuve d'expérience. 
+
+CHAPITRE VII. Des Vents. 
+
+Comment se font les vents, & du changement de leurs noms. 
+
+Anaximandre tient, que le vent est une fluxion de l'air, quand les plus subtiles & plus liquides parties de lui sont émues ou fondues par le Soleil. Les Stoïques disent, que tout vent est fluxion de l'air, & que selon les mutations des régions ils changent aussi de nom, comme venant de vers la nuit, ou le Pouvant, il s'appelle Zéphyr : du côté de Levant, & du Soleil, il se nomme Apeliote : du côté de Septentrion, Boreas : du côté de Midi, Lybs. Métrodore, qu'une vapeur eveuse étant échauffée par le Soleil produit l'impétuosité des vents : & que les anniversaires, qui s'appellent communément Etésies, soufflent quand l'air qui est à l'entour du Septentrion était épaissi par le froid, flue avec le Soleil, qui s'en retourne après le solstice de l'été. 
+
+CHAPITRE VIII. De l'Hiver & de l'Eté. 
+
+Comment se font ces deux saisons. 
+
+Empédocles & les Stoïques tiennent, que l'hiver se fait quand l'épaisseur de l'air gagne & monte contre-mont : & l'été quand le feu au contraire gagne & descend contre-bas. Au reste, ayant traité des impressions qui s'engendrent en l'air, nous courrons aussi par dessus celles qui se font en terre. 
+
+CHAPITRE IX. De la Terre, quelle est sa substance, & combien elle est grande;. [291] 
+
+Il n'y a qu'une terre qui est finie. 
+
+Thalès & ses dépendants tiennent, qu'il n'y a qu'une terre : oecetès Pythagorien deux, ceste-ci, & l'opposite. Les Stoïques, qu'il y a une terre, & finie : Xénophane, que du côté d'à-bas elle est fondée en une profondeur infinie, & que elle est concréée de feu & d'air : Métrodore, que la terre est vase, & la lie de l'eau : & le Soleil, de l'air. 
+
+CHAPITRE X. De la forme de la terre. 
+
+La terre est ronde; 
+
+Thalès, & les Stoïques, & ceux de leur école, tiennent qu'elle est ronde comme une boule : Anaximandre, que elle est semblable à une pierre en forme de colonne : Anaximène, qu'elle est plate comme une table : Leucippe, qu'elle a la forme d'un tabourin13 : Démocrite, qu'elle est plate comme un bassin, mais creuse au milieu. 
+
+CHAPITRE XI. De la situation de la terre. 
+
+Est au milieu ou centre de l'univers. 
+
+Les disciples de Thalès, qu'elle est au milieu : Xénophane, qu'elle est la première fondée & enracinée en un fond infini : Philolaüs Pythagorien, que le milieu est feu, pource que c'est le foyer de l'univers : la seconde, la contre-terre : la tierce, celle que nous habitons, & qui tourne à l'entour de la contre-terre, qui est la cause pour laquelle ceux qui sont en celle ci ne voient pas ceux qui sont en celle-là. Parménide est le premier qui a limité les lieux habités en la terre, à savoir ceux qui sont és deux bandes habitables jusques aux cercles des Tropiques. 
+
+CHAPITRE XII. Du penchement de la terre. 
+
+A son contre-poids égal. 
+
+Leucippe que la terre encline vers le Midi, à cause de la rareté qui est és parties Méridionales, dautant que les parties Septentrionales sont atteintes par les froidures, & les opposites enflammées : Démocrite, pourautant que l'air est plus imbécile vers le midi, la terre croissant penche de ce côté-là, dautant que le côté du Nord est intempéré, & au contraire celui du Midi est tempéré, & pour cette raison il pèse plus sur ce côté-là, là où la terre produit plus de fruits, & les amène à plus grande augmentation. [292] 
+
+CHAPITRE XIII. Du mouvement de la terre. 
+
+Est ferme & ne bouge. 
+
+Les autres tiennent que la terre ne bouge : mais Philolaüs Pythagorien tient qu'elle se meut en rond par le cercle oblique, ni plus ni moins que fait le Soleil & la Lune. Héraclide Pontique & Ecphantus Pythagorien remuent bien la terre, mais non pas qu'elle passe d'un lieu en un autre, restant enveloppée comme une roue de bandes, depuis l'Orient jusques en Occident, à l'entour de son propre centre. Démocrite dit, que du commencement la terre vaguait çà & là, tant pour sa petitesse comme pour sa légèreté, mais s'étant estreinte [Note 14] & appesantie par le temps, elle s'est arrêtée immobile. 
+
+CHAPITRE XIV. De la division de la terre, & combien elle a de bandes. 
+
+Elle a cinq bandes. 
+
+Pythagore dit que la terre, ni plus ni moins que la sphère de l'univers, est divisée en cinq bandes, l'Arctique, la Tropique d'été, celle de l'Hiver, l'Equinoctiale, & l'Antarctique desquelles la metyoene termine le milieu de la terre, & pour cette cause se nomme la Zone brûlée, mais à son avis elle est habitable étant tempérée, comme celle qui est au milieu de celle d'été & de celle d'hiver. 
+
+CHAPITRE XV. Des tremblements de terre. 
+
+Causes de ces tremblements diversement expliqués par les anciens Philosophes, & pour la résolution desquelles lisez ceux qui ont écrit sur la Philosophique en ces derniers temps. 
+
+Thalès & Démocrite en attribuent la cause à l'eau : les Stoïques disent, le tremblement de la terre est quand l'humidité qui est dedans la terre vient à se subtiliser en air, & à sortir par force : Anaximène, que la rareté & sécheresse de la terre sont les causes du tremblement, l'une étant produite & causée par les excessives chaleurs, & l'autre par les excessives pluies : Anaxagore, parce que l'air étant entré dessous la terre, vient à se présenter au cuir pour sortir, mais le trouvant fort & épais, dautant qu'il ne peut trouver par où sortir, il la secoue par tremblement : Aristote, pour la circonstance du froid qui l'environne de tous côtés, dessous & dessus, car le chaud tâche à gagner le haut, comme celui qui est léger de sa nature, & pourtant l'exhalaison sèche se trouvant [293] enfermée, en s'efforçant de fendre, & tournant & retournant çà & là, secoue la terre. Métrodore, que nul corps étant en son lieu propre & naturel, ne se remue, si autre, actuellement ne le pousse ou ne le tire, & pourtant que la terre étant située en son lieu naturel, ne se remue point; mais bien qu'aucuns lieux & parties d'icelle vont aux autres. Parménide & Démocrite, pource qu'elle est de tous côtés également distante, elle demeure en son contre-poids, n'ayant point de cause pourquoi elle dût pencher plus d'un côté que d'autre, & pourtant qu'elle se secoue seulement, mais qu'elle ne bouge pas pour autant. Anaximène, pourautant que elle est plate, qu'elle est portée dessus l'air. Les autres disent sur l'eau, comme les lames & les aix [Note 15] plats flottent dessus l'eau, & que c'est pourquoi elle se meut. Platon, que de tout mouvement il y a six circonstances, dessus, dessous, à droite, à gauche, devant, & derrière : & que la terre ne se peut mouvoir par aucune de ces différences, pourautant que de toutes parts elle est au plus bas du monde, à l'occasion de quoi elle demeure bien immobile, n'ayant rien pourquoi elle doive plus encliner en une part qu'en une autre, mais que certains endroits d'icelle, pour être rares au dedans, se secouent. Epicure tient, qu'il peut être qu'elle est agitée & secouée par l'air, qui est au dessous, épais, & de nature d'eau : qu'il peut être aussi qu'étant cavernée és parties inférieures, elle est agitée & tourmentée par le vent qui s'enferme dedans ses concavités. 
+
+CHAPITRE XVI. De la Mer, comment elle est concréée, & comment elle est amère. 
+
+Divers avis de la création & amertume de la mer. 
+
+Anaximandre, que c'est un reste de la première humidité, de laquelle le Soleil a séché la plus grande partie, & ce qui en est demeuré, il le transmue par son inflammation : Anaxagore, que l'humeur primitive étant répandue comme un étang, a été brûlé par le mouvement que le Soleil fait à l'entour, & qu'étant exhalée la partie huileuse, le reste s'est affaissé en salure & amertume. Empédocle que c'est la sueur de la terre échauffée du Soleil, pource que elle est baignée par dessus : Antiphon, que c'est la sueur du chaud, duquel l'humide, qui était contenu dedans, a été espreint [Note 16] en bouillant, ce qui advient en toute sueur. Métrodore, pource qu'étant coulée à travers la terre, elle retient quelque chose de sa densité, comme ce qu'on passe à travers la cendre. [294] Les sectateurs de Platon, que de l'eau élémentaire, ce qui en est par réfrigération congelé de l'air, est doux : mais que ce qui en est évaporé par embrasement & inflammation, en est salé. 
+
+CHAPITRE XVII. Comment se font les flux & reflux, le flot, & l'herbe [sic] en la mer. 
+
+Aristote attribue la cause au Soleil & aux vents. Pythias à la Lune. Platon à un soulèvement d'eaux. Autres à diverses autres causes. 
+
+Aristote & Héraclite, que c'est le Soleil qui le fait, dautant que c'est celui qui excite & mène quand & lui la plus part des vents, lesquels venant à donner dedans la mer Océane enflent la mer Atlantique, & ainsi font le flux; & puis quand ils viennent à faillir, la mer étant retirée baisse, & ainsi cause le reflux ou l'hebe [sic]. Pythias de Marseille tient que la pleine Lune est celle qui fait le flux, & le décours le reflux : Platon l'attribue à un sous-lèvement des eaux, disant qu'il se fait un sous-lèvement qui à travers la bouche d'un pertuis porte çà & là le flux & le reflux, par le moyen desquels les mers sont oppositement tourmentées. Timée en donne la cause aux rivières qui entrent dedans la mer Atlantique tombant des montagnes des Gaulles, qui par leurs irruptions & entrées violentes, en poussant les eaux de la mer font le flux, et en se retirant par intervalles, quand ils cessent ils causent le reflux. Seleucus le Mathématicien, qui fait aussi la terre mobile, dit que le mouvement d'icelle est contraire & opposite à celui de la Lune, & que les vents étant tirés çà & là, à l'opposite, par ces deux contraires révolutions, venant à donner dedans l'Océan Atlantique, brouille aussi la mer à mesure qu'il se remue. 
+
+CHAPITRE XVIII. De l'Aire. 
+
+Comment se fait l'aire. 
+
+L'Aire se fait ainsi. Entre le corps de la Lune ou de quelque autre astre, & notre vue, se rencontre et s'arrête vu air gros & nébuleux, & puis notre vue venant à se rompre en icelui air & à s'élargir, & puis donner jusqu'au cercle de l'astre en sa circonférence extérieure, il nous semble qu'il se fait un cercle à l'entour de l'astre & ce cercle-là ou couronne est ce qui s'appelle de l'Aire, pource qu'il semble que cette apparente impression se fasse tout joignant cela où donne notre vue élargie. [295] 
+
+ 
+
+LIVRE QUATRIEME 
+--------------- 
+
+Ayant couru les générales parties du monde, je passerai maintenant aux particulières. 
+
+CHAPITRE I. De la montée & débordement du Nil. 
+
+Opinions diverses de Thalès, d'Euthymène, d'Anaxagore. De Démocrite, d'Hérodote, d'Ephorus, d'Eudoxe. 
+
+Thalès estime que les vents anniversaires, qu'on appelle Etesiens, soufflant directement à l'opposite d'Egypte, font lever les eaux du Nil, pourautant que la mer poussée par ces vents entre dedans la bouche de la rivière, & empêche qu'elle ne s'écoule & dégorge librement étant repoussée contre-mont. Euthymène de Marseille pense que cette rivière s'enfle, & se remplit de l'eau de l'Océan, & de la grande mer, qui est hors des lettres, laquelle à son avis est douce. Anaxagore dit, que cela vient de la neige de l'Ethiopie, qui se fond en été, & se gèle en hiver. Démocrite, que c'est de la neige qui est vers le Septentrion, laquelle se fond & se répand environ le solstice de l'été, d'autant que des vapeurs s'engendrent les nuées, lesquelles étant poussées par les vents en Ethiopie & en Egypte, vers les parties du Midi, font de grandes & véhémentes pluies, desquelles les lacs & la rivière du Nil se remplissent. Hérodote l'historien dit, qu'il y a autant d'eau en hiver qu'en été, partant de ses sources, mais qu'il nous apparaît en avoir moins d'hiver, d'autant que le Soleil étant plus près de l'Egypte en hiver, fait évaporer toutes les eaux. Ephorus l'historiographe écrit, que toute l'Egypte se résoud & se fond toute, par manière de dire, à quoi lui contribue encore ses eaux l'Arabie, & la Lybie, dautant que la terre y est légère & sablonneuse. Eudoxe dit, que c'est à cause de la contrariété des saisons, & des grandes pluies, pource que quand il nous est été, à nous qui sommes habitants dedans la Zone, ou bande de l'été, alors il est hiver à ceux qui habitent en la bande opposite sous le tropique hivernal, d'où procède, dit-il, ce grand ravage d'eau. 
+
+CHAPITRE II. De l'âme. 
+
+L'Ame se meut soi-même toujours. 
+
+Thalès a été le premier qui a défini l'âme, une nature se mouvant toujours, & soi-même : Pythagore [296] que c'est un nombre se mouvant soi-même, & ce nombre-là il le prend pour l'entendement : Platon, que c'est une substance spirituelle se mouvant soi-même, & par nombre harmonique : Aristote, que c'est l'acte premier d'un corps naturel organique, ayant vie en puissance : Dicæarchus, que c'est l'harmonie & concordance des quatre Eléments : Asclépiade le médecin, que c'est un exercice commun de tous les sentiments ensemble. 
+
+CHAPITRE III. Si l'Ame est corps, & qu'elle [sic!] est sa substance. 
+
+L'Ame est une substance spirituelle; 
+
+Tous ces Philosophes-là, que nous avons mis ci-devant, supposent que l'âme est incorporelle de sa nature, & que elle se meut elle-même, que c'est une substance spirituelle, & une action d'un corps naturel, composé de plusieurs organes, ayant vie : mais les sectateurs d'Anaxagore disent, que c'est un esprit ou vent chaud. Démocrite que c'est une certaine composition en feu des choses perceptibles par la raison, qui ont leurs formes rondes, & leur puissance de feu, ce qui est corps. Epicure, que c'est un mélange & température de quatre choses, de ne sais quoi de feu, ne sais quoi d'air, ne sait quoi de vent, & d'une autre quatrième qui n'a point de nom, qui est à lui la force sensitive. Héraclite, que l'âme du monde est l'évaporation des humeurs, qui sont en lui, & que l'âme des animaux procède tant de l'évaporation des humeurs de dehors, que du dedans & de même genre. 
+
+CHAPITRE IV. Des parties de l'Ame. 
+
+Partie raisonnable & irraisonnable de l'âme, & comment distinguées. 
+
+Pythagore, Platon, à le prendre à la plus générale division, tiennent que l'âme a deux parties, c'est à savoir la partie raisonnable, & la partie irraisonnable : mais à y regarder de plus près & plus exactement, elle a trois parties, car ils sous- divisent la partie irraisonnable en la concupiscence & en l'irrascible. Les Stoïques disent, qu'elle est composée de huit parties, cinq des sens naturels, le sixième, la voix, le septième, la semence, le huitième, l'entendement, par lesquelles toutes les autres sont commandées par ces propres instruments; ni plus ni moins que le poulpe se sert de ses branches. Démocrite & Epicure mettent deux parties en l'âme, la partie raisonna [297] ble logée en l'estomac, & l'autre éparse par tout le corps : Démocrite met, que toutes choses sont participantes de quelque sorte d'âme, jusques aux corps morts, d'autant que manifestement ils sont encore participants de quelque chaleur, & de quelque sentiment, la plus part en étant jà [Note 17] éventée. 
+
+CHAPITRE V. Qu'elle [sic!] est la maîtresse, & principale partie de l'Ame, & où elle est. 
+
+Siège de l'âme. 
+
+Platon & Démocrite, en toute la tête : Straton, entre les deux sourcils : Erasistrate, en la raie qui enveloppe le cerveau, laquelle il appelle Epicranidès : Erophile, dedans le ventricule du cerveau, qui en est le fondement : Parménide en tout l'estomac. Et Epicure, les Stoïques tous, en tout le coeur, ou bien en l'esprit qui est à l'entour du coeur : Diogène, en la cavité qui est en l'artère du coeur, qui est pleine d'Esprit. Empédocle, en la consistance du sang : les autres, au col du coeur : les autres, en la taie qui est autour du coeur : autres dedans le diaphragme. Aucuns des modernes tiennent qu'elle occupe tout depuis la tête jusqu'à la traverse du diaphragme : Pythagore, que la partie vitale est à l'entour du coeur : la raison & la partie spirituelle en la tête. 
+
+CHAPITRE VI. Du mouvement de l'Ame. 
+
+L'Ame est en perpétuel mouvement. 
+
+Platon, que l'âme est toujours mouvante, & l'entendement immobile quant à mouvement de lieu à autre : Aristote, que l'âme est immobile, encore que ce soit elle qui régisse & meuve tout mouvement, mais bien en est participante par accident, selon que les divers corps se meuvent. 
+
+CHAPITRE VII. De l'immortalité de l'Ame. 
+
+L'Ame est immortelle, ce que les Philosophes ont compris obscurément & mal pour la plus part : les autres l'ont ignoré & nié. 
+
+Pythagore, Platon, que l'âme est immortelle : car en sortant du corps elle s'en retourne à l'âme de l'univers qui est de son genre. Les Stoïques, que l'âme sortant du corps, si elle est débile, comme celle des ignorants, demeure avec la consistance du corps : & la plus forte comme est [298] celle des sages & savants, dure jusqu'à l'embrasement. Démocrite, Epicure, qu'elle est corruptible, & qu'elle se corrompt quand & le corps. Pythagore, Platon, que la partie raisonnable est incorruptible, pour ce que l'âme n'est pas Dieu, mais bien l'ouvrage de Dieu éternel. Et que la partie [ir]raisonnable [Note 18] est corruptible. 
+
+CHAPITRE VIII. Des sentiments & choses sensibles. 
+
+Que c'est du sentiment & en combien de sortes il se prend. 
+
+Les Stoïques définissent ainsi le sentiment : sentiment est la compréhension ou apréhension de l'organe sensible : mais sentiment se prend en plusieurs sortes, car on entend l'habitude, ou la faculté naturelle, ou l'action de sentir, & l'imagination apréhensive : qui se font tous par le moyen de l'organe sensitif, & la huitième partie même de l'âme, la principale qui est le discours de la raison, par lequel toutes les autres consistent. Derechef on appelle les instruments sensitifs les esprits intellectuels, qui partant de l'entendement s'étendent jusqu'à tous les organes. Epicure : Le sens, dit-il, est une partie de l'âme, qui est la puissance de sentir, dont procède l'effet du sentiment : tellement qu'il définit le sentiment en deux sortes, la puissance, & l'effet de sentir. Platon définit le sentiment être une société du corps & de l'âme, pour les choses extérieures : car la faculté naturelle de sentir est de l'âme, l'organe est du corps, & l'un & l'autre apréhendent les choses extérieures, par le moyen de l'imaginative, qui est en la phantasie. Leucippe, Démocrite, tiennent que le sentiment & l'intelligence se font par le moyen des images qui nous viennent de dehors, parce que ni l'un ni l'autre ne se fait sans l'occurence d'une image. 
+
+CHAPITRE IX. Si les sentiments sont véritables & les imaginations. 
+
+Les sentiments sont véritables & les imaginations aucunes fausses, autres véritables. 
+
+Les Stoïques tiennent que les sentiments sont véritables, & que des imaginations aucunes sont fausses, & autres véritables. Epicure, que tout sentiment & toute imagination est véritable, mais quant aux opinions que les unes sont vraies, les autres fausses : & que le sentiment se déçoit en une sorte seulement, c'est à savoir quant aux choses intelligibles : mais l'imagination en deux manières, parce qu'il y a imagination tant des choses sensibles, que des intelligibles. [299] Empédocle, Héraclite que les particuliers sentiments se font selon la proportion des pores, étant l'objet de chaque sens bien disposé. 
+
+CHAPITRE X. Combien il y a de sentiments. 
+
+Cinq sentiments auxquels Aristote ajoute le sens commun. 
+
+Les Stoïques, qu'il y en a cinq proprement, la vue, l'ouïe, l'odorement, le goût, l'attouchement. Aristote ne dit pas qu'il y en ait six, mais bien met-il un sens commun qui juge des espèces composées, auquel tous les autres sens particuliers rapportent leurs propres imaginations, là où le passage de l'un à l'autre, comme de la figure au mouvement, se montre. Démocrite dit, qu'il y a plus de sentiment és bêtes brutes, & és dieux, & és sages. 
+
+CHAPITRE XI. Comment se fait le sentiment & l'intelligence. 
+
+Comment se fait la mémoire. D'où vient l'expérience, & que c'est. Des pensées, & de l'intelligence. 
+
+Les Stoïques disent, que quand l'homme est engendré, il a la principale partie de l'âme, qui est l'entendement, ni plus ni moins qu'un papier prêt à écrire, dedans lequel il écrit chacun de ses pensements : & la première sorte d'écriture est par les sentiments, car ceux qui ont senti quelque chose, comme pour exemple, ceux qui ont vu une blancheur, après qu'elle s'en est allée, ils en retiennent la mémoire : & après qu'ils ont assemblé plusieurs mémoires semblables, & de même espèce, alors ils disent qu'ils ont expérience : car expérience n'est autre chose, qu'un amas & multitude de plusieurs semblables espèces. Mais quant aux pensées, les unes sont naturelles, qui se font en la manière que nous avons jà dit auparavant, sans artifice : les autres se font par étude & par doctrine, & celles-ci sont proprement celles qui s'appellent pensées, les autres se nomment anticipations, & la raison de laquelle, & pour laquelle nous sommes nommés raisonnablement, se fait par ces anticipations-là, en la première septaine d'ans, & est l'intelligence de la conception de l'entendement de l'animal raisonnable : car l'imagination quand elle vient à donner en l'âme raisonnable, alors elle s'appelle intelligence, ayant pris la dénomination de l'entendement. C'est pourquoi ces imaginations ne tombent point és autres animaux : mais les imaginations qui se présentent aux dieux & à nous, celles-là seules sont proprement imaginations, & celles qui se présentent à nous sont imaginations en général [300] & pensements en spécial : comme des têtons & des écus à part considérés en soi sont têtons & écus, mais si vous les baillez pour le louage d'un navire, alors outre ce qu'ils sont deniers, encore sont-ils naulages [Note 19]. 
+
+CHAPITRE XII. Quelle différence il y a entre imagination, imaginable, imaginatif, & imaginé. 
+
+Que c'est qu'imagination. Phantasie. Imaginable que c'est. Imaginatif que c'est. imaginé que c'est. 
+
+Chrysippe dit, qu'il y a différence entre ces quatre choses. L'imagination donc est une impression qui se fait en notre âme, qui se montre à soi-même ce qui l'a imprimée : comme quand par la vue nous contemplons une blancheur, c'est une passion ou affection qui s'engendre par la vue en notre âme, & pouvons dire que la blancheur en est le sujet ou objet qui nous émeut : semblablement aussi par l'odorement & par l'attouchement, & s'appelle cette imagination Phantasie, qui est dérivée de ce mot Phaos, lequel signifie clarté. Car ainsi comme la lumière se montre soi-même, & tout ce qui est compris en icelle : aussi la phantasie ou imagination se montre soi-même, & ce qui l'a faite. Imaginable est ce qui fait l'imagination, comme le blanc, le froid, & tout ce qui peut émouvoir l'âme, cela est ce qui s'appelle imaginable. Phantastique ou imaginatif est une attraction en vain, une passion ou affection de l'âme, qui ne provient d'aucun objet imaginable, comme de celui qui escrime à son ombre, & qui mène les mains en vain, car à la vraie imagination & phantasie il y a un sujet qui se nomme imaginable, mais à l'imaginatif ou phantastique il n'y a aucun sujet ni objet. L'imaginé ou le phantasme est ce à quoi nous sommes attirés d'une attraction vaine, ce qui se fait en ceux qui sont furieux & malades d'humeur mélancolique, comme Oreste en la Tragédie d'Euripide, 
+
+Je te supplie ne pousse contre moi, 
+
+Ô Mère, hélas! ces femmes que je vois 
+
+Pleines de sang, & de serpents grouillantes 
+
+Les voici près, les voici tressaillantes. 
+
+Il dit ces paroles étant furieux, & ne voit rien, mais il pense voir seulement : & pourtant Electra lui répond, 
+
+Demeure cois en ton lit misérable, 
+
+Tu pense voir ce qui n'est véritable. 
+
+comme aussi Théoclymenus en Homère. [301] 
+
+CHAPITRE XIII. De la vue, & comment nous voyons. 
+
+Quatre diverses opinions sur cette question. 
+
+Démocrite, Epicure, estimaient que la vue se fait par sortie & émission des espèces & images : les autres par quelque éjection de rayons, retournant vers notre oeil après l'occurence de l'objet. Empédocle a mêlé les images parmi les rayons : appelant cela, les rayons de l'image composée. Hipparque tient, que les rayons lancés de l'un & l'autre de nos yeux, venant à embrasser de leurs bouts, ni plus ni moins que par attouchement des mains, l'extériorité des corps objectés emportent la compréhension à la puissance visive. Platon, que c'est par conjonction de lueur, dautant que par lueur des yeux se répand jusqu'à quelque espace emmi l'air de pareille nature, & la lueur issant [Note 20] des corps aussi vient à fendre l'air, qui est entre deux, étant de soi-même fort liquide & muable avec le feu de la vue : c'est ce qu'on appelle la conjointe lueur & radiation des Platoniques. 
+
+CHAPITRE XIV. Des apparences des miroirs. 
+
+Comment sa sale [Note 21] que nous voyons dans les miroirs. 
+
+Empédocle, par les défluxions qui se concréent sur la superficie du miroir, & s'achèvent par le feu qui sort du miroir, & transmuent quand & quand l'air qui est au devant, par lequel se meuvent les fluxions : Démocrite, Epicure, que les apparences des miroirs se font par l'arrêt des images lesquelles partent de nous, & se concréent sur le miroir par réversion : les Pythagoriens par réflexion de la vue, parce que la vue s'en va étendre jusques contre le miroir, & étant arrêtée par l'épaisseur, & rebattue par la polissure de l'objet du miroir, elle s'en retourne en soi-même, ni plus ni moins que quand nous étendons la main, & puis la ramenons vers l'épaule. 
+
+On peut se servir & accomoder de toutes ces opinions, quant à la question, Comment nous voyons. 
+
+CHAPITRE XV. Si les ténèbres sont visibles. 
+
+Il conclut que les ténèbres sont visibles 
+
+Les Stoïques, que les ténèbres sont visibles, parce que de la vue il sort quelque lueur qui les enveloppe : & ne ment point la vision, car elle voit certainement & à la vérité [302] qu'il y a ténèbres. Chrysippe dit que nous voyons par la tension de l'air qui est entre deux, lequel étant poingt par l'esprit visif, qui passe depuis la principale partie de l'âme jusqu'à la prunelle, & après qu'il a donné dedans l'air prochain, il se tend en forme de Pyramide, quand l'air est de même nature que lui : car il flue des deux yeux des rais qui sont comme feu, non pas noirs ni nébuleux : & pourtant les ténèbres sont visibles. 
+
+CHAPITRE XVI. De l'OuÎe. 
+
+Comment se forme l'ouïe. 
+
+Empédocle, dit, que l'ouïe se fait quand l'esprit vient à donner dedans la concavité de l'oreille tournée en forme de vis, laquelle il dit être suspendue au dedans de l'oreille, ni plus ni moins qu'une cloche, & battue. Alcméon tient que nous oyons par le vide qui est au dedans de l'oreille : car il dit, que c'est cela qui résonne quand l'esprit donne dedans, pource que toutes choses vides sonnent : Diogène, que c'est quand l'air qui est dedans la tête vient à être touché & remué par la voix : Platon & ses sectateurs disent, que l'air de dedans la tête est frappé, & que le rebrisement se fait jusqu'à la partie principale où est la raison, & ainsi se forme le sentiment de l'ouïe. 
+
+CHAPITRE XVII. De l'Odorement. 
+
+Comment nous odorons. 
+
+Alcméon est d'avis, que la raison, principale partie de l'âme, est dedans le cerveau,& que par icelle nous odorons; en attirant les senteurs par la respiration : Empédocle, que quand & les respirations des poumons, l'odeur se coule aussi dedans. Quand donc la respiration est empêchée à cause l'aspérité, nous ne sentons point les odeurs, comme ceux qui sont enrhumés. 
+
+CHAPITRE XVIII. Du goût. 
+
+Comment se fait le goût. 
+
+Alcméon, que par l'humidité & la tiédeur avec la mollesse de la langue, sont distinguées les saveurs : Diogène, par la rareté & la mollesse, pource que les veines du corps se viennent aboutir en elle; & les saveurs se répandent étant tirés au sentiment & à la principale partie de l'âme, ni plus ni moins que par une éponge. [303] 
+
+CHAPITRE XIX. De la Voix. 
+
+Que c'est que la voix, & comme elle se fait. 
+
+Platon définit la voix, esprit qui par la bouche est âme née de la pensée, & un frappement de l'air qui passe à travers les oreilles, le cerveau & le sang, jusqu'à l'âme : & appelle-on aussi abusivement & improprement voix és animaux irraisonnables, & és créatures qui n'ont point d'âme, comme sont les hennissements des chevaux, & les sons, mais proprement il n'y a voix que celle qui est articulée, pource qu'elle déclare ce qui est dans la pensée. Epicure tient que la voix est un flux, envoyé par les choses qui parlent, ou qui sonnent, ou qui bruient, & que ce flux-là se rompt en plusieurs fragments de même figure que sont les choses dont elles partent, comme rondes des rondes, & triangles des triangles, & que ces fragments-là venant à tomber dedans les oreilles, se fait le sentiment de la voix : ce qui se voit manifestement és ombres qui s'écoulent, & és foulons qui soufflent de l'eau contre les draps & habillements. Démocrite tient, que l'air même se rompt en petits fragments de même figure, c'est à dire, les ronds avec les ronds, & qu'ils coulent avec les fragments de la voix : car, comme dit le proverbe, 
+
+Auprès du geais toujours le geais se perche, 
+
+Et le pareil toujours son pareil cherche. 
+
+car même sur la grève au rivage de la mer les cailloux de même & semblable forme se trouvent ensemble, en un endroit ceux qui sont ronds, en l'autre ceux qui semblent longuets : pareillement aussi quand on crible ou qu'on vanne les grains, toujours se rangent ensemble ceux qui sont de même forme, de manière que les sèves se mettent à part, & à part les poids chiches. Mais on pourrait alléguer contre ceux-là, Comment est-ce que peu de fragments d'esprit & de vent peuvent remplir un théâtre capable de dix mille hommes? Les Stoïques disent que l'air n'est point composé de menus fragments, mais qu'il est contenu partout, sans avoir rien de vide, mais quand il est frappé d'un esprit, c'est à dire, d'un vent, il va ondoyant chercher droits infiniment, jusqu'à ce qu'il ait rempli ce qu'il y a d'air à l'environ, ni plus ni moins qu'on voit en un étang où on a jeté une pierre dedans : car l'eau se meut en cercle plat, & l'air se remue en boule ronde. Anaxagore que la voix se fait, le vent venant à frapper contre un air résistant & ferme, retournant le contre-coup jusqu'aux oreilles, qui est la manière par laquelle se forme aussi le retentissement de la voix, qui s'appelle Echo. [304] 
+
+CHAPITRE XX. Si la voix n'a point de corps, & comment se forme le retentissement de l'Echo. 
+
+Quel est le corps de la voix. Comment se fait l'Echo; 
+
+Pythagore, Platon, Aristote, tiennent qu'elle n'a point de corps, d'autant que ce n'est pas air : mais une forme en l'air & sa superficie par un certain battement : or est-il que toute superficie est sans corps : vrai est qu'elle se meut & se remue avec les corps, mais quant à elle sans point de doute elle n'a aucun corps : comme en une verge qu'on plie, la superficie ne souffre aucune altération quant à elle, ains est la matière qui plie. Mais les Stoïques tiennent, que la voix est corps : car tout ce qui opère, & qui fait, est corps : or est-il que la voix fait & opère, car nous l'oyons, & la sentons quand elle nous donne à l'ouïe, & s'imprime ni plus ni moins qu'un cachet dedans de la cire. Davantage tout ce qui nous émeut, & qui nous fâche est corps : or l'harmonie de la musique nous émeut, & le discord nous fâche. Qui plus est tout ce qui se remue est corps : or la voix se remue, & vient donner dedans des lieux lisses & polis, par lesquels elle est renvoyée & rebattue, ainsi qu'on voix d'une balle qu'on jette contre une muraille, tellement que dedans les Pyramides d'Egypte, une voix lâchée rend quatre & cinq retentissements. 
+
+CHAPITRE XXI. D'où est-ce que l'âme sent, & qu'est-ce que sa principale partie. 
+
+Le discours de la raison principale partie de l'âme, dont s'écoulent sept autres parties, qui s'étendent par le reste du corps. 
+
+Les Stoïques disent, que la partie la plus haute c'est la principale partie & la guide des autres, celle qui fait les imaginations, les consentements, les sentiments, les apétitions, & c'est ce qu'on appelle le discours de la raison. Or d'icelle principale, il y a sept parties qui en sortent, & s'étendent par le reste du corps, ni plus ni moins que les bras d'un poulpe. Desquelles sept parties les sens naturels en font les cinq, comme la vue, l'odorement, l'ouïe, le goût, & l'attouchement : desquels la vue est l'esprit, qui tend depuis la raison & principale parties jusques aux yeux : & l'ouïe, l'esprit qui tend depuis l'entendement jusques aux oreilles : l'odorement, l'esprit qui passe depuis la raison jusques aux naseaux : le goût, l'esprit partant de la principale partie, & passant jusques à la langue : l'attouchement, esprit prenant [305] depuis la principale partie jusques à la superficie sensible des choses accomodées à l'attouchement : des autres, le sixième s'appelle la semence, qui est un esprit prenant depuis la principale partie jusques aux génitoires : & le septième ce que Zénon appelle vocale, que nous disons voix, qui est un esprit qui prend depuis la principale partie jusques au gosier, & à la langue, & autres instruments appropriés à la voix : & au reste, la principale partie est logée comme au milieu de son monde, dedans la tête ronde en forme de boule. 
+
+CHAPITRE XXI. De la respiration. 
+
+Quand & comment se fait la respiration, & sur ce point diverses opinions. I. d'Empédocle. 2. d'Asclépide. 3. d'Hérophile. Quatre mouvements du poumon. 
+
+Empédocle estime que la première respiration du premier animal se fait, quand l'humidité qui est aux petits enfants venant à naître se retire, & que l'air de dehors vient à lui succéder entrant dedans les vaisseaux entre ouverts : mais puis après la chaleur naturelle poussant déjà au dehors cette aérée pour s'évaporer la respiration se fait : & aussi quand elle se retire derechef au dedans, alors se fait l'inspiration, parce qu'elle donne entrée à la substance humide. Au reste, quant à celle respiration qui se fait maintenant, qu'elle se fait quand le sang se meut vers l'extérieure superficie du corps, & par cette fluxion espreint22 & chasse la substance aérée par les narines : & l'inspiration quand il s'en retourne au dedans, y r'entrant l'air quand & quand par les raretés que le sang a laissées vides : & pour le donner à entendre donne l'exemple de la clepsydre ou horologe à eau. Asclépide compose le poumon comme un entonnoir, & suppose que la cause de la respiration soit l'air délié & de subtiles parties qui est dans la poitrine, vers lequel flue & se rue celui de dehors qui est de grosses & épaisses parties, mais il en est derechef repoussé, ne pouvant plus la poitrine ni le recevoir, ni être sans : & demeurant toujours un peu de gros air dedans la poitrine, parce que le tout n'en avait pas été chassé, celui de dehors se rejette derechef sur celui-là qui est au dedans, pouvant supporter sa pesanteur : & compare cela à des ventouses. au demeurant quant à la volontaire respiration il dit qu'elle se fait parce que les petits trous qui sont dedans la substance du poumon se restreignent, & que le col d'icelui se resserre, car ces choses-là obéissent à notre volonté : Hérophile laisse les facultés mouvantes des corps aux nerfs, aux artères & aux muscles : si dit, qu'il n'y a que le poumon qui naturellement apète le mouvement de dilatation & de contraction, & les autres parties du corps conséquemment : & [306] pourtant que c'est action propre au poumon, que de tirer le vent de dehors, duquel étant rempli, la poitrine, qui est tout joignant, fait une autre attraction par une seconde appétition, déviant en soi le vent : puis quand elle en est aussi remplie, n'en pouvant plus attirer, elle refunde [Note 23] derechef dans le poumon ce qu'elle en a de trop, par lequel il est rejeté au dehors, s'entresecourant ainsi les parties du corps : car quand il se fait dilatation du poumon, contraction se fait de la poitrine, se faisant ainsi la replétion & l'évacuation par mutuelle participation l'un de l'autre, tellement qu'il y a quatre mouvements du poumon. Le premier par lequel il reçoit l'air de dehors : le second, par lequel il transfunde [Note 24] dedans la poitrine cet air qu'il a attiré & reçu de dehors : le troisième, par lequel il reçoit derechef en soi celui qui est espreint de la poitrine : & le quatrième par lequel il renverse dehors encore celui-là qui était retourné dedans lui. Et de ces mouvements-là il y en a deux qui sont dilatations : l'un qui pousse l'air dehors de tout le corps : l'autre qui le pousse de la poitrine dedans le poumon : & deux contractions, l'une quand la poitrine attire à soi le vent, & l'autre quand le poumon atrait [Note 25] l'air en sa concavité : & y en a deux seuls dans la poitrine : l'un de dilatation, quand elle attire : & l'autre de contraction, quand elle le rend. 
+
+CHAPITRE XXIII. Des passions du corps, & si l'Ame compatit en sentant sa douleur. 
+
+De la sympathie de l'âme & du corps. 
+
+Le Stoïques disent que les passions se font és parties dolentes mais les sentiments en la principale partie. Epicure que les passions & les sentiments se font tous deux és parties dolentes parce que la raison & principale partie de l'âme, ce dit-il, est impassible : Straton au contraire, & que les passions & les sentiments se font en la partie principale, & non pas és parties dolentes, parce que la patience se meut en elle aussi bien és choses terribles & douloureuses, comme és timides & magnanimes. [306] 
+
+
+LIVRE CINQUIEME 
+--------------- 
+
+CHAPITRE I. De la Divination.; [307] 
+
+Comment se fait la divination, & qu'elle a diverses espèces, contre les Epicuriens. 
+
+Platon & les Stoïques l'introduisent par inspiration suivant la divinité del'âme, quand l'âme est éprise de l'esprit divin, ou bien par révélation des songes : ceux- là admettent & approuvent plusieurs espèces de divinations : Xénophane & Epicure au contraire, ôtent toute divination : Pythagore réprouve seulement celle qui se fait par les sacrifices : Aristote & Dicæarque admettent seulement celle qui se fait par inspiration divine & par les songes, non qu'ils estiment l'âme être immortelle, mais qu'elle a quelque participation de la divinité. 
+
+CHAPITRE II. Comment se font les songes. 
+
+Opinions diverses touchant les songes. 
+
+Démocrite, que les songes se font par représentation des images : Straton parce que l'entendement est ne sais comment plus sensible en dormant & s'émeut lors plus à apéter connaissance. Hérophile que les songes divinement inspirés se font par nécessité, les naturels parce que l'âme se forme une image & représentation de ce qui lui est utile, & de ce qui en doit advenir. Ceux qui sont mêlés & de nature mixte, casuellement & fortuitement, ou par approchement & accès des images, quand ce que nous désirons, nous le voyons, comme ceux qui songent qu'ils jouissent de leurs amours. 
+
+CHAPITRE III. Quelle est la substance de la substance. 
+
+Définition de la semence. 
+
+Aristote, que la semence est ce qui a pouvoir de mouvoir en soi-même, à parfaire quelque chose de tel que est ce dont il a été exprimé : Pythagore, l'écume du plus utile dans la superfluité de la nourriture, comme le sang & la moëlle : Alcméon, partie du cerveau : Platon, défluxion de la moëlle de l'épine : Epicure, une abstraction de l'âme & du corps : Démocrite, de tous les corps & des principales parties d'iceux, la géniture des nerfs charnus. 
+
+CHAPITRE IV. Si la semence est corps. 
+
+Diversité d'opinions si c'est corps ou non. 
+
+Leucippe & Zénon, que c'est corps, pource que c'est une abstraction de l'âme : Pythagore, Platon, Aristote, que la force de la semence n'a point de corps, comme l'entende- [307] ment , qui est celui qui remue le corps, mais bien que la matière qui est jetée hors & répandue est corporelle : Straton & Démocrite, que la puissance même est corps, dautant qu'elle est esprit. 
+
+CHAPITRE V. Si les femelles aussi bien que les mâles rendent semences. 
+
+Les femelles ont & rendent semence, & quelle. 
+
+Pythagore, Epicure, Démocrite, que la femelle aussi jette semence, pource qu'elle a des vases séminaires à l'envers : voilà pourquoi elles apètent encore après l'acte de la génération : Aristote & Zénon, qu'elle rend une matière humide, comme la sueur qui sort des corps qui s'exercent ensemble, non pas que ce soit semence : Hippon, que les femelles jettent de la semence non point que les mâles, mais que cela ne sert point à la génération, d'où vient qu'aucune femme, mais peu, en jettent sans compagnie de l'homme mêmement les veuves, & que les os se concréent de la semence du mâle, & la chair de la femelle. 
+
+CHAPITRE VI. Comment se font les conceptions. 
+
+Mâle comment s'engendrent, & que c'est qui empêche la conception. 
+
+Aristote pense que les conceptions, & engouffrements se fassent, parce que la matière a été devant attirée par la purgation naturelle, & parce que les purgations ont amené quelque partie du sang pur de toute la masse, tellement qu'il en advient que le mâle s'en engendre : & aucontraire, que ce qui empêche les conceptions est quand la matrice est impure ou qu'elle est pleine de ventosités, ou de peur, ou de tristesse, ou pour la faiblesse & imbécilité des femmes, ou par l'impuissance des hommes. 
+
+CHAPITRE VII. Comment engendrent les mâles & les femelles. 
+
+Choses concurrents en la génération des mâles & des femelles, & diverses opinions sur ce propos. 
+
+Empédocle tient, que les mâles & les femelles s'engendrent par le moyen de la chaleur & de la froideur, d'où vient qu'on raconte que les premiers mâles naquirent au monde devers le Soleil Levant & devers le Midi, & [309] les femelles vers le Septentrion : Parménide au contraire dit, que les mâles naquirent devers les Septentrion, pource que l'air y est plus gros & plus épais : & au contraire, les femelles vers le Midi, à cause de la rareté & subtilité de l'air : Hipponax à cause de la semence qui est plus forte & plus épaisse ou bien plus faible & plus liquide : Anaxagore, Parménide, que la semence qui vient du côté droit de l'homme se jette dedans le côté droit de la matrice, & du gauche en la partie gauche : mais si l'éjection se fait autrement, que lors il s'engendre des femelles. Léophanès dit qu'Aristote tient, que les mâles s'engendrent du génitoire droit, & les femelles du gauche : Leucippe, à cause de la permutation des parties naturelles, parce que l'un a la verge d'une sorte, & l'autre la matière d'une autre, & n'en dit autre chose : Démocrite, que les parties communes s'engendrent aussi tôt de l'un que de l'autre, selon qu'il se rencontre mais les particulières de celui qui est le plus puissant. Hipponax dit que si la semence est la plus forte, il se fait un mâle : si la nourriture, une femelle. 
+
+CHAPITRE VIII. Comment se font les monstres. 
+
+Quatre avis de Empédocle sur la génération des monstres. 
+
+Empédocle, que les monstres s'engendrent pour l'abondance de la semence, ou bien par faute, ou par la turbulence & perturbation du mouvement, ou pource qu'il est divisé en plusieurs parts : ainsi semble-il qu'il ait préoccupé toutes réponses : Straton, par addition ou substration, ou transposition, ou inflation de vents[ :] [Note 26] aucuns des médecins, parce que quelque fois la matrice devient torse par force de ventosités. 
+
+CHAPITRE IX. Pourquoi est-ce que le femme, qui a souvent compagnie de l'homme, ne conçoit point. 
+
+Avis divers de Dioclès. Des Stoïques, d'Erasistratus. 
+
+Dioclès le médecin, parce que les unes ne rendent du tout point de semence, ou bien moins qu'il n'en faut, ou bien telle, qu'elle n'a point de vigueur vivifiante, ou par faute de chaleur, ou de froid, ou d'humidité, ou de sécheresse, ou par relaxation des parties : les Stoïques, à cause de l'obliquité de la verge de l'homme qui est tortüe, à raison dequoi il ne peut pas jeter la semence droit : ou pource que les parties sont disproportionnées pour la distance de la matrice : Erasistrate, à cause de la matrice, quand elle a des callosités [310] & dureté, ou qu'elle est trop charnue, ou qu'elle est plus rare, ou plus petit qu'il ne faut selon nature. 
+
+CHAPITRE X. Comment naissent les Jumeaux ou Trijumeaux. 
+
+Générations des jumeaux attribuées à diverses causes; 
+
+Empédocle dit, que c'est pour la multitude ou la divulsion de la semence : Asclépiade, à raison de l'excellence de la semence, ni plus ni moins que les chalumeaux d'orge, où il y a deux ou trois épis, quand les semences sont fort génératives : Erasistrate, à cause des purgations, comme és bêtes brutes : car quand la matrice est repurgée, alors elle vient à la conception : les Stoïques qui sont dedans la matrice, quand la semence vient à tomber dedans le premier & dedans le second, alors se font les superfetations, & alors s'engendrent les Trijumeaux. 
+
+CHAPITRE XI. D'où se font les similitudes des pères & des mères & des ancêtres. 
+
+Similitude des enfants diversement expliquée. 
+
+Empédocle que les similitudes se font par la force plus grande de la semence génitale, & les dissimilitudes, parce que la chaleur qui est en la semence est évaporée : Parménide, quand la semence descend en la droite partie de la matrice, ils ressemblent aux pères : quand à la sénestre, aux mères : Les Stoïques, de tout le corps & de toute l'âme issent [Note 27] les semences & si forment les similitudes de même semences les formes & les figures, comme un peintre qui de mêmes couleurs peindrait l'image qu'il verrait devant soi : que la femme même rend de la semence, & si elle plus forte, alors que l'enfant est semblable à la mère : & si c'est celle de l'homme, semblable au père. 
+
+CHAPITRE XII. Comment les enfants se font semblables aux autres, & non pas aux pères & mères. 
+
+Vertu de l'imagination fort grande en la génération des enfants. 
+
+La plus part des médecins, que c'est fortuitement & par cas d'aventure : quand la semence du père & de la mère est refroide, les enfants ne leur ressemblent point : Empédocle, que par l'imagination de la femme en la conception se [311] forment les enfants : car souvent des femmes ont été amoureuses d'images & de statues, & ont enfanté des enfants semblables à icelles : les Stoïques par compassion & convenance des pensements, par évulsion de fluxions & de rayons, & non pas d'images, se font les ressemblances. 
+
+CHAPITRE XIII. Comment se font les femmes stériles, & les hommes impuissants d'engendrer. 
+
+Plusieurs avis des médecins sur la stérilité des femmes. De Dioclès sur la stérilité des femmes. De la stérilité des deux parties. 
+
+Les médecins tiennent qu'elles sont stériles, à cause de la matrice qui est ou trop serrée, ou trop rare, ou trop dure, ou pour quelques callosités, ou parce que les femmes sont trop pusillanimes, ou parce qu'elles ne sont pas bien nourries, ou de mauvaises habitudes de corps, ou parce qu'elles ont contrefaites, ou par convulsion : Dioclès tient, que les hommes sont inféconds, ou parce que les uns ne rendent du tout point de semence, ou moins qu'il n'en faut, ou non ayant forme d'engendrer : ou parce qu'ils ont les parties naturelles lâches, ou parce qu'ils ont la verge tortuë qui ne peut jeter sa semence droit, ou pour ce que elle n'est pas de longueur compétente, vue la distance de la matrice : les Stoïques en accusent certaines qualités & facultés discordantes & incompatibles des parties, lesquelles séparées l'une d'avec l'autre, & conjointes avec d'autres accordantes à leur complexion, alors se tempère la nature, & se parfait l'enfant. 
+
+CHAPITRE X[I]V [Note 28]. Pourquoi sont les Mulets & les Mules stériles. 
+
+Mulets & Mules sont stériles, à cause de leur froideur, & incapacité des parties à la génération. 
+
+Alcméon tient, que les Mulets sont inféconds, pource que leur semence est trop déliée substance, qui vient de la froideur d'icelle : & les femelles, parce que leurs matrices ne s'ouvrent pas assez car ainsi le dit-il : Empéocle, à cause que leur matrice est trop petite, trop basse, & trop étroite, étant attachée & tournée vers le ventre, de sorte que ni la semence ne peut être droit jetée dedans, ni quand bien elle y serait jetée, elle ne la recevrait pas : à quoi Dioclès lui porte témoignage disant, Plusieurs fois aux anatomies ai-je vu la matrice telle, & qu'il advient pour les mêmes causes que quelques unes des femmes sont stériles. [312] 
+
+CHAPITRE XV[I] [Note 29]. Si l'enfant étant encore au ventre de sa mère est animal, ou non. 
+
+De la vie de l'enfant au ventre de sa mère. 
+
+Platon tient qu'il est animal, dautant qu'il a mouvement, & qu'il prend nourriture dedans le ventre : les Stoïques, que c'est une partie du ventre, non pas animal séparé, comme les fruits des arbres qui viennent à tomber quand ils sont achevés de murir, aussi fait l'enfant : Empédocle, qu'il n'est point animal & néanmoins qu'il a vie, & que sa première respiration est à l'enfantement, lors que la superflue humidité se retire, & que l'air de dehors entre dedans le vide des vaisseaux ouverts : Diogène, que les fruits s'engendrent dedans la matière sans âme, mais bien avec chaleur, d'où vient que la chaleur naturelle, incontinent qu'il est sorti hors du ventre de la mère, est attirée dedans les poumons : Hérophile laisse aux fruits étant dedans le ventre, le mouvement naturel, non pas la respiration : & de ce mouvement-là les nerfs sont la cause instrumentale, puis ils deviennent animaux parfaits, quand étant sortis du ventre, ils prennent un peu de haleine & d'air; 
+
+CHAPITRE XVI. Comment se nourrissent les fruits dedans le ventre. 
+
+Admirable providence de Dieu en la nourriture des enfants aux ventres des mères. 
+
+Démocrite & Epicure tiennent, que le fruit étant encore dedans le ventre prend nourriture par la bouche, d'où vient que soudain qu'il est né il cherche de la bouche le bout de la mamelle, parce qu'il y a dedans la matrice des bouts des teints, & des bouches par lesquelles ils se nourrissent : les Stoïques, par le lict & par le nombril : d'où vient que les sages femmes incontinents le lient & lui ouvrent la bouche, afin qu'il s'accoutume à une autre sorte de nourriture, Alcméon, qu'il se nourrit par tout le corps, parce qu'il attire comme une éponge, de toute la nourriture ce qui est propre pour le nourrir. 
+
+CHAPITRE XVII. Ce qui est parfait le premier dedans le ventre. 
+
+Opinions diverses, entrelesquelles celle des médecins est plus reçue. 
+
+Les Stoïques, qu'en la plus part l'épine du dos se forme la première, comme la quille de la navire : Alcméon, la tête, comme celle qui est le siège de la raison : les médecins le coeur, auquel sont les veines & les artères : les autres le gros orteil du pied : les autres le nombril. [313] 
+
+CHAPITRE XVIII. Pourquoi est-ce que les enfants sont viables à sept mois. 
+
+Opinion des Philosophes. Opinion des médecins. Opinion des Mathématiciens. 
+
+Empédocle dit, que lors que l'homme fut engendré de la terre, le jour était aussi long, pour le tardif mouvement du Soleil, comme sont aujourd'hui dix mois, & que par succession de temps il devint aussi long comme sont aujourd'hui sept mois, & pour cette raison que les enfants de dix mois & de sept sont viables, s'étant de la nature du monde accoutumée à amener en un jour le fruit en la maturité, depuis la nuit qu'il a été mis en son ventre : Timée dit, qu'il n'y a pas dix mois, mais neuf, pour autant que les purgations menstruales sont arrêtées dès le jour de la première conception : aussi pense-on que les enfants soient de sept mois qui ne le sont pas, pource qu'il y a des femmes qui ne laissent pas d'avoir leurs purgations encore après qu'elles ont conçu : Polybius, Dioclès, les Empiriques, savent que le huitième mois même est vital, mais un peu plus débilement, dautant que bien souvent par imbécilité plusieurs périssent. Le plus ordinaire est, qu'on ne veut pas élever les enfants qui viennent à huit mois, mais que toutefois plusieurs y naissent : Aristote & Hippocrate disent, que si dedans sept mois la matrice se remplit, alors l'enfant demande à sortir, & lors ils sont viables, mais que s'il se pousse en avant, & que il ne se nourrisse point pour l'imbécilité du nombril, alors pour le grand travail & la mère est en danger, & son fruit ne s'en nourrit point : mais il demeure tous les neuf mois dedans la matrice, sortant alors il est tout accompli. Polybius dit, qu'il faut que les enfants pour être viables aient cent quatre vingt deux jours & demi, pource que c'est l'espace de six mois, dedans lequel espace, le Soleil vient d'un solstice à l'autre : mais on dit qu'ils sont de sept mois quand il advient que les jours qui défaillent au premier mois se reprennent sur le septième, & que les enfants de huit mois ne vivent point quand ils penchent hors de la matrice, & que le nombril est trop tendu, car il ne se nourrit point, comme celui qui est cause de l'aliment. Les Mathématiciens tiennent qu'il y a huit mois qui sont insociables de toute génération, & sept qui sont sociables.. Or les signes insociables sont, s'ils ont les astres dont ils sont les domiciles : car si en aucuns d'iceux échoit le sort de la vie de l'homme, cela signifie qu'il sera mal-heureux & de courte vie : & les animaux aux signes insociables sont qui se content les huitièmes, comme le Mouton au Scorpion est insociable, le Taureau avec l'Archer, les Jumeaux avec [314] le Capricorne, le Cancre, avec le Verseau, le Lion, avec les Poissons, la Vierge avec le Mouton : & pour cette raison que les enfants à sept mois & à dix huit mois sont viables & qu'à huit mois, à raison de la dissociation incompagnable du monde, ils périssent. 
+
+CHAPITRE XIX. De la génération des animaux, comment ils ont été engendrés, & ils sont corruptibles. 
+
+Les animaux ont été créés, & périssables. 
+
+Ceux qui tiennent que le monde est créé, tiennent aussi que les animaux ont été créés, & qu'il sont périssables. Les Epicuriens, selon lesquels les animaux n'ont point été créés, tiennent que la de mutation les uns aux autres ont été engendrés les animaux, car ce sont parties de ce monde, comme Anaxagore & Euripide disent, Rien ne meurt, mais changeant d'un en autre, ils montrent tantôt une forme, & tantôt une autre. Anaximandre tient que les premiers animaux furent engendrée en humeurs environnés d'écorces épineuses, mais avec l'âge ils devinrent plus secs, & finalement l'écorce étant rompue tout à l'entour, ils survécurent peu de temps après, Empédocle que les premières générations des animaux & des plantes ne furent point toutes entières & parfaires, ains déjointes, parce que les parties ne s'entretenaient point : que les secondes générations, les parties commençant à se joindre, furent semblables à des images : les tierces qui naissaient les unes des autres : les quartes, non plus de semblables, comme de terre & d'eau, mais bien d'entr'eux-mêmes, aux uns leur nourriture étant épaissie, aux autres la beauté des femmes les excitant à un mouvement spermatique : au demeurant, que les genres de tous animaux ont été divisés par certaines températures. Les uns eurent leur inclination plus à l'eau : les autres respirèrent en l'air, selon qu'ils tindrent plus de la nature du feu : les autres de température plus grave le posèrent en terre : les autres de température égale de tous éléments, jetèrent voix de toute leur poitrine. 
+
+CHAPITRE XX. Combien il y a de genres d'animaux, & s'ils sont tous sensitifs, & ayant usage de raison. 
+
+Quatre genres d'animaux. Du sens & raison des animaux; 
+
+Il y a un traité d'Aristote où il dit, qu'il y a quatre genres d'animaux, terrestres, aquatiques, volatiles, & célestes : car il appelle les cieux, les astres, & le monde, animaux, & Dieu animal raisonnable immortel. Anaxagore, que tous les [315] animaux ont raison active : Démocrite, Epicure que les célestes sont immortels, mais qu'il n'ont point l'entendement passif, qu'on appelle le truchement de la pensée. Pythagore, Platon, que les âmes des animaux mêmes qu'on appelle irraisonnables, sont bien raisonnables, mais toutefois qu'elles ne peuvent opérer raisonnablement, à cause de l'intempérée composition de leur corps, & dautant qu'ils n'ont point la parole pour s'expliquer, comme on voit és singes & és chiens, lesquels ont bien quelque voix, mais ils n'ont point de langage & de paroles distinctes. Diogène, qu'ils ont bien quelque entendement, mais que pour la grossesse & épaisseur de leur tempérament, & pour l'abondance de leur humidité, ils n'ont ni discours de raison ni sentiment, ni plus ni moins que ceux qui sont furieux, parce qu'ils ont le cerveau blessé, & l'usage de raison empêché. 
+
+CHAPITRE XXI. En combien de temps se forment les animaux dedans le ventre de la mère. 
+
+Du temps de la formation des mâles & femelles. 
+
+Empédocle, que les hommes commencent à se former depuis le trentesixième, & qu'ils se parachèvent de toutes les parties dedans le cinquantième, il ne s'en faut qu'un. Asclépiade, qu'és mâles, dautant qu'ils sont plus chauds, la formation des membres se fait dès le vingt & sixième jour, & que plusieurs se parachèvent de toutes leurs parties dedans le cinquantième jour : mais aux femelles elles se forment en deux mois, & se parachèvent en quatre, dautant qu'elles ont faute de chaleur naturelle, mais que les parties des animaux irraisonnables se parachèvent entièrement selon les températures des éléments. 
+
+CHAPITRE XXII. De combien d'éléments se composent chacune des parties générales qui sont en nous. 
+
+La chair, les nerfs, les ongles, & les os comment engendrés. 
+
+Empédocle estime que la chair s'engendre de la mixture & température du dedans des quatre éléments : les nerfs du feu & de la terre mêlés en double proportion : & que les ongles s'engendrent és animaux par les nerfs refroidis à l'endroit où l'air les touche : les os de l'eau & du dedans de la terre : & de ces quatre mêlés & contempérés ensemble, la sueur & les larmes se font. [316] 
+
+CHAPITRE XXIII. Comment se font le sommeil, & la mort : si c'est de l'âme ou du corps. 
+
+Les uns l'attribuent à la retraite du sang, les autres au refroidissement de la chaleur naturelle, les autres à la résolution de l'esprit sensitif. 
+
+Alcméon dit, que le sommeil se fait par le sang qui se retire au dedans des veines confluentes, & que le réveil est la diffusion du sang : que la retraite entière est la mort. Empédocle, que le sommeil se fait par le refroidissement médiocre de la chaleur naturelle qui est en nous, & que le refroidissement entier est la mort. Diogène, si le sang se répand par tout, & qu'emplissant les veines il repousse l'air qui est en nous, en l'estomac & au ventre inférieur, il s'engendre sommeil, & alors l'estomac est plus chaud : mais si tout ce qui est de substance aérée vient à défaillir dans les veines, alors c'est la mort. Platon & les Stoïques, que le sommeil se fait par rémission de l'esprit sensitif, non point par abaissement, & descente vers la terre, ains par élévation contre-mont vers l'endroit où est le siège de la raison : mais quand il se fait entière résolution de l'esprit sensitif, alors de tout point s'ensuit la mort. 
+
+CHAPITRE XXIV. Quand & comment est-ce que l'homme commence à atteindre sa perfection. 
+
+Environ les quatorze ans, selon l'avis d'Héraclite & des Stoïques. 
+
+Héraclite & les Stoïques, que les hommes commencent à entrer en leur perfection environ la seconde septaine de leurs ans auquel temps la semence commence à couler : car les arbres mêmes commencent lors à entrer en leur perfection, quand ils commencent à engendrer leur semence : & au contraire, ils sont imparfaits, tant qu'ils sont non murs & sans fruit parquoi l'homme aussi alors est parfait, là où environ la seconde septaine il commence à comprendre que c'est de bien & de mal, & de la doctrine d'iceux. 
+
+CHAPITRE XXV. Lequel des deux est-ce qui dort, ou qui meurt, l'âme ou le corps. 
+
+Divers avis sur le dormir : mais quant à la mort, le corps seul meurt, l'âme est immortelle. 
+
+Aristote tient, que le dormir est commun à l'âme & au corps : & est le sommeil certaine humidité, qui évapore de l'estomac & de la viande à la tête, & à la chaleur na- [317] turelle qui est au coeur rafraichie, & que la mort est un total & entier refroidissement : & que la mort n'est que du corps tant seulement, non pas de l'âme, car d'elle elle est immortelle. Anaxagore, que le sommeil est de l'action corporelle, car c'est affection du corps, non pas de l'âme, & qu'il y a aussi bien mort de l'âme, à savoir la séparation d'avec elle & du corps. Leucippe que le sommeil appartient au corps seul par concrétion de ce qui est subtil & délié, mais que l'excrétion excessive de la chaleur naturelle est la mort, qui sont passions du corps, & non pas de l'âme. Empédocle, que la mort est une séparation des éléments dont le corps de l'homme est composé, tellement que selon cela, la mort est commune autant au corps comme à l'âme, & que le sommeil est une séparation de ce qui est de nature de feu. 
+
+CHAPITRE XXVI. Comment sont venus à croissance les plantes, & les animaux. 
+
+De la vie des plantes, & comme elle est considérée par les Philosophes. 
+
+Platon, Empédocle, tiennent que les plantes mêmes sont animaux, ce qu'ils disent être manifeste, parce qu'ils se croulent, & qu'ils ont les branches étenduées & quand on les plie ils cèdent, puis quand on les lâche ils s'en retournent. Aristote tient bien qu'ils sont animés, mais non pas pourtant animaux, à cause que les animaux ont mouvement, & aucuns sentiment & discours de la raison. Les Stoïques & les Epicuriens, qu'ils n'ont point d'âme, car ceux qui ont âme, ou elle est apétitive & concupiscible, ou elle est raisonnable, mais que les plantes sont crues casuellement & fortuitement, non point par le moyen de l'âme. Empédocle dit, que les arbres premiers que les animaux saillirent de la terre, devant que le Soleil fût déployé : & devant que le jour & la nuit fussent séparés : & que par la proportion de la température l'un eu le nom de mâle, & l'autre de femelle, & qu'ils croissent par la force de la chaleur qui est dedans la terre, de manière que ce sont parties de la terre, ni plus ni moins que les fruits du ventre des mères sont parties de la matrice : & que les fruits sont les superfluités de l'eau & du feu qui est dedans les arbres : & que ceux qui en ont faute, quand il est desséché par la chaleur de l'été, perdant leurs feuilles, mais qu'en la plus part elles demeurent, comme celles du laurier, celles de l'olivier, celles du palmier : & que les différentes jus & saveurs procèdent de la diversité de ce [318] qui les nourrit, comme és vignes, car la différence d'icelles ne fait pas le vin bon à user, mais du terroir qui les nourrit. 
+
+CHAPITRE XXVII. De la nourriture & accroissement. 
+
+Animaux comment se nourrissent & croissent. 
+
+Empédocle, que les animaux se nourrissent par la substance de l'aliment qui leur est propre & qu'ils croissent par la présence de la chaleur : qu'ils diminuent, & se corrompent par faute de l'un & de l'autre, & que les hommes de maintenant, comparés aux anciens, sont comme enfants venant de naître. 
+
+CHAPITRE XXVIII. D'où viennent les apétits & les voluptés aux animaux. 
+
+Résolution imparfaite d'Empédocle. 
+
+Empédocle, que les appétits & cupidités viennent aux animaux par défaut des éléments qui les composent, & les voluptés de l'humidité, & les mouvements de périls & autres choses semblables, les empêchements, &.* 
+
+CHAPITRE XXIX. Comment se fait la fièvre, & si c'est un accessoire d'autre mal. 
+
+Que c'est de la fièvre selon Erasistrate & Dioclès. 
+
+Erasistrate définit la fièvre ainsi : La fièvre est un mouvement de sang qui vient à tomber dedans les vaisseaux des esprits, qui sont les artères, contre la volonté du patient. Car tout ainsi come la mer, quand les vents ne la meuvent point ne bouge, mais quand un vent impétueux la vient à remuer, alors contre sa nature elle se remue & renverse jusqu'au fond : aussi au corps de l'homme, pendant que le sang est ému, il tombe dedans les vaisseaux des esprits & s'enflammant il échauffe tout le demeurant du corps : & lui plait que la fièvre soit un sur accessoire. Mais Dioclès dit : Ce qui apparaît au dehors est indice de ce qui est caché au dedans. Or voit-on que la fièvre survient aux accidents qui adviennent dehors, comme aux blessures, aux apostumes [Note 30], & aux bosses. 
+
+CHAPITRE XXX. De la santé, maladie & vieillesse. 
+
+Santé comment entretenue. D'où viennent les maladies. D'où vient la vieillesse, & pourquoi les peuples du Midi vieillissent plus tôt que ceux du Septentrion. 
+
+Alcméon tient, que l'égalité des facultés du corps humain, comme de l'humidité, du chaud, du sec, du froid, de l'amer, du doux, & des autres, conserve & contient la santé : & qu'au contraire la monarchie, c'est à dire, prédomination d'aucun d'iceux, fait la maladie : car celle prédomination & principauté apporte corruption des autres, & est cause des maladies, comme quand la chaleur ou la froideur y est excessive pour la quantité trop grande, ou le défaut, comme en aucuns le sang défaut ou le cerveau : & que la santé est une proportionnée température de toutes les qualités. Dioclès dit, que la plus part des maladies au corps humain procède de l'inégalité des éléments, & de la température : Erasistrate, pour la quantité trop grande de la nourriture & de l'indigestion & corruption : mais que le bon ordre & la suffisance est la santé. Les Stoïques conformément tiennent, que la vieillesse advient à cause de la faute de chaleur, car ceux qui en ont plus, sont ceux qui vieillissent plus longuement. Asclépiade dit que les Ethiopiens vieillissent bien tôt à l'âge de trente ans, pource que leurs corps sont trop brûlés de la chaleur du Soleil : & qu'en l'Angleterre les hommes y vieillissent jusques à six vingt ans, dautant que ces lieux y sont froids : au moyen dequoi ils contiennent au dedans la chaleur naturelle : car les corps des Ethiopiens y sont plus rares, dautant qu'ils sont lâchés par la chaleur du Soleil : & au contraire, les corps des hommes qui sont vers le Septentrion, sont plus serrés, & pour cette cause, ils vivent plus longtemps. 
+
+
+NOTES, par E. Dubreucq 
+------------------------ 
+
+1 C'est-à-dire de l'école fondée par Aristote, bien entendu. 
+
+2 Jean-Paul Dumont, Préface à l'édition des Présocratiques de la Pléiade, p. XXIII (tirage de 1988). 
+
+3 souloir : avoir coutume de. 
+
+4 espreindre : serrer, presser quelque chose pour en tirer le suc, en exprimer le jus. 
+
+5 espreindre : serrer, presser quelque chose pour en tirer le suc, en exprimer le jus. 
+
+6 oiseuse : qui demeure sans rien faire, fainéant. 
+
+7 issante : participe présent du verbe issir. On s'en sert pour signifier Venu, descendu d'une personne ou d'une race. 
+
+8 estouper, boucher avec de l'étoupe ou avec quelque autre chose de semblable. 
+
+9 sion, ou scion, ou cion, petit brin, petit rejeton tendre et pliable d'un arbre. 
+
+10 eveus, ou eveis, evis, évage, aquatique, pluvieux, marécageux. 
+
+11 cornes, élipse pour tuniques cornées. 
+
+12 segréger, forme de secréter (?). 
+
+13 tabourin, ou tambourin. 
+
+14 estreindre, serrer, presser, tenir rudement, obliger, forcer. 
+
+15 aix ou ais, planche de bois, planchette dont se sert un relieur, table de travail du boucher. 
+
+16 espreindre, exprimer par ex. le jus d'un fruit. 
+
+17 ja, cependant, néanmoins. 
+
+18 Je corrige le texte visiblement fautif de l'édition. 
+
+19 naulage ou nol, affrêtement, fret. 
+
+20 issant, participe présent du verbe issir, sortir, provenir de. 
+
+21 Sale, pièce principale d'une habitation, lieu, siège. 
+
+22 espreindre, exprimer, par ex. le jus d'un fruit. 
+
+23 refundre ou refondre, enfoncer, se répandre, verser. 
+
+24 transfundre, s'épandre à travers. 
+
+25 atraire, attirer, amener (cf. attraction). 
+
+26 Je corrige. 
+
+27 issir, venir, procéder de. 
+
+28 Je corrige. 
+
+29 Je corrige. 
+
+30 apostume, enflure extérieure avec putréfaction. 
+
+ 
+
+
